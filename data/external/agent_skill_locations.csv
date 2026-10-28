@@ -1,0 +1,23 @@
+agent,location,status,since,surface_note,source_url,source_type,checked_on
+Claude_Code,.claude/skills,confirmed,2025-10-16,"Project skills; also nested <subdir>/.claude/skills and parents up to repo root. Personal ~/.claude/skills is invisible to us.",https://code.claude.com/docs/en/skills,official_docs,2026-10-25
+Claude_Code,.agents/skills,not_read,,"Not listed in current official docs.",https://code.claude.com/docs/en/skills,official_docs,2026-10-25
+Claude_Code,.github/skills,not_read,,"Not listed in current official docs.",https://code.claude.com/docs/en/skills,official_docs,2026-10-25
+Claude_Code,.cursor/skills,not_read,,"Not listed in current official docs.",https://code.claude.com/docs/en/skills,official_docs,2026-10-25
+Claude_Code,.codex/skills,not_read,,"Not listed in current official docs.",https://code.claude.com/docs/en/skills,official_docs,2026-10-25
+Claude_Code,skills,not_read,,"<plugin>/skills/ is loaded only for installed plugins, not auto-discovered in a working repo.",https://code.claude.com/docs/en/skills,official_docs,2026-10-25
+Copilot,.github/skills,confirmed,2025-12-18,"Copilot coding/cloud agent, CLI, VS Code agent mode.",https://github.blog/changelog/2025-12-18-github-copilot-now-supports-agent-skills/,official_changelog,2026-10-25
+Copilot,.claude/skills,confirmed,2025-12-18,"Changelog: existing .claude/skills are picked up automatically.",https://github.blog/changelog/2025-12-18-github-copilot-now-supports-agent-skills/,official_changelog,2026-10-25
+Copilot,.agents/skills,confirmed,,"Listed in current docs; absent from the 2025-12-18 changelog and from an older localized docs page -> start date unknown.",https://docs.github.com/en/copilot/concepts/agents/about-agent-skills,official_docs,2026-10-25
+OpenAI_Codex,.agents/skills,unknown,,"Official docs list repo .agents/skills for desktop app, CLI and IDE; they do not say whether cloud tasks (head:codex/ PRs) load them. Early CLI support (2025-12-12) was user-level ~/.codex/skills behind --enable skills.",https://learn.chatgpt.com/docs/build-skills,official_docs,2026-10-25
+OpenAI_Codex,.codex/skills,unknown,,"Not in official docs; mentioned only by third parties (and Cursor's compatibility list).",https://cursor.com/docs/skills,third_party,2026-10-25
+Cursor,.cursor/skills,confirmed,2026-01-22,"Cursor 2.4 (editor and CLI). Cloud agents pick up repo skills per a community forum answer (not official).",https://cursor.com/changelog/2-4,official_changelog,2026-10-25
+Cursor,.agents/skills,confirmed,,"Listed in current docs; start date unknown (assume >= 2026-01-22).",https://cursor.com/docs/skills,official_docs,2026-10-25
+Cursor,.claude/skills,confirmed,,"Compatibility directory in current docs; start date unknown (assume >= 2026-01-22).",https://cursor.com/docs/skills,official_docs,2026-10-25
+Cursor,.codex/skills,confirmed,,"Compatibility directory in current docs; start date unknown (assume >= 2026-01-22).",https://cursor.com/docs/skills,official_docs,2026-10-25
+Devin,.agents/skills,confirmed,,"Recommended location. No release date found.",https://docs.devin.ai/product-guides/skills,official_docs,2026-10-25
+Devin,.devin/skills,confirmed,,"No release date found.",https://docs.devin.ai/product-guides/skills,official_docs,2026-10-25
+Devin,.github/skills,confirmed,,"No release date found.",https://docs.devin.ai/product-guides/skills,official_docs,2026-10-25
+Devin,.claude/skills,confirmed,,"No release date found.",https://docs.devin.ai/product-guides/skills,official_docs,2026-10-25
+Devin,.cognition/skills,confirmed,,"No release date found.",https://docs.devin.ai/product-guides/skills,official_docs,2026-10-25
+Devin,.windsurf/skills,confirmed,,"No release date found. A localized docs page lists 8 paths (adds .cursor, .codex): discrepancy.",https://docs.devin.ai/product-guides/skills,official_docs,2026-10-25
+Google_Jules,*,unknown,,"No source found stating that Jules loads SKILL.md files.",,none,2026-10-25

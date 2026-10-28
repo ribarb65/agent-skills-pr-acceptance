@@ -1,0 +1,17 @@
+# Data: raw and derived data stay out of Git (archived on Zenodo instead)
+data/raw/
+data/interim/
+data/processed/*.parquet
+# Environment and secrets
+.venv/
+.env
+*.key
+# Notebook / OS noise
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+# Assistant / local instructions (not part of the research artefact)
+CLAUDE.md
+.claude/
+# Partial downloads
+*.tmp

@@ -1,0 +1,13 @@
+,AIDev v3,AIDev v3,AIDev v5,AIDev v5
+,AIDev-pop,AIDev (all),AIDev-pop,AIDev (all)
+AIDev repositories (>= 1 agent PR),2807,116423,25403,961165
+... found in GitSkills (any skill-like file),523,1414,4073,27313
+... with >= 1 SKILL.md in a standard location,491,1320,3675,24432
+... with a known adoption date (complete or partial),243,752,1867,14086
+... first SKILL.md on/after 2025-10-01,243,752,1866,14083
+... >= 5 agent PRs before adoption  [USABLE ADOPTERS],118,292,929,5136
+    of which: adoption date complete (exact),39,131,423,2540
+    of which: not a fork,118,292,929,5135
+    of which: >= 5 agent PRs after adoption already in AIDev,0,0,267,1502
+"Undated SKILL.md repos with >= 5 PRs before 2025-10-01 (recoverable via API, upper bound)",94,219,262,635
+"Never-treated controls: not in GitSkills, >= 5 PRs before 2025-10-01",510,28100,1494,59542
