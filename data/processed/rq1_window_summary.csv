@@ -1,0 +1,5 @@
+study_group,period,pairs,active_pairs,total_prs,merged_30d,closed_unmerged_30d,unresolved_30d
+control,before,424,357,6270,5034,853,383
+control,after,424,233,5852,5128,571,153
+treated,before,424,357,7162,6504,559,99
+treated,after,424,317,7371,6744,475,152

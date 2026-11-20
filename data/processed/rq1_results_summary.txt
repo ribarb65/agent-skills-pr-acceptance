@@ -1,0 +1,24 @@
+RQ1 — Does Adding Agent Skills Change PR Acceptance?
+
+Treated repositories: 424
+Potential control repositories: 1146
+Matched repository pairs: 424
+Complete pairs used in the paired analysis: 184
+Sample retention: 43.40%
+
+Main paired difference-in-differences:
+Estimate: -4.88 percentage points
+95% bootstrap confidence interval:
+[-10.95, 1.05] percentage points
+
+Interpretation:
+The estimated difference is negative, but the confidence interval
+includes zero. The analysis does not establish a statistically
+conclusive change in PR acceptance following skill adoption.
+
+Limitations:
+- Complete-case selection depends on post-adoption PR activity.
+- Matching does not eliminate unobserved confounding.
+- Skill adoption dates are inferred from GitSkills history.
+- Repositories with no PRs have undefined acceptance rates.
+- The comparison does not establish causality.
