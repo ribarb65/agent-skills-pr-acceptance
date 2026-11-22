@@ -1,0 +1,6 @@
+dimension,group_a,group_b,pairs_a,pairs_b,difference_pp,ci_lower_pp,ci_upper_pp,ci_includes_zero
+Content reuse,Mixed content,No observed duplicates only,14,104,0.6031607472100298,-27.227108849885283,28.31043567062197,True
+Content reuse,Mixed content,Shared content only,14,66,-0.8833504493397142,-29.87061884472558,28.629550269724945,True
+Content reuse,No observed duplicates only,Shared content only,104,66,-1.486511196549744,-14.547051067795724,11.447891073018233,True
+Agent compatibility,Documented by adoption,Not documented,171,12,-5.621378445093322,-28.149344721055815,16.621014494925685,True
+Task alignment,Higher alignment,Lower alignment,92,92,2.490697285919964,-9.977746710179561,15.260969861700096,True

@@ -1,0 +1,185 @@
+pair_id,did,reuse_group,compat_group,alignment_group
+1,0.08997792103910307,No observed duplicates only,Documented by adoption,Lower alignment
+2,0.014903608661760215,No observed duplicates only,Documented by adoption,Lower alignment
+3,-0.11665626949469754,No observed duplicates only,Documented by adoption,Lower alignment
+4,-0.14704944178628387,Shared content only,Documented by adoption,Higher alignment
+5,0.2320008106601813,Shared content only,Documented by adoption,Lower alignment
+6,-0.0018080210387902973,Shared content only,Documented by adoption,Lower alignment
+8,-0.08344459279038718,No observed duplicates only,Documented by adoption,Higher alignment
+9,0.032941458546889124,No observed duplicates only,Documented by adoption,Higher alignment
+10,0.7731854838709677,Mixed content,Documented by adoption,Lower alignment
+11,0.20205225854226172,No observed duplicates only,Documented by adoption,Lower alignment
+12,-0.03804876537472501,No observed duplicates only,Documented by adoption,Lower alignment
+13,-0.3832352941176471,No observed duplicates only,Documented by adoption,Lower alignment
+14,0.16167800453514736,No observed duplicates only,Documented by adoption,Higher alignment
+16,-0.14224905360322204,No observed duplicates only,Documented by adoption,Higher alignment
+17,-0.038347457627118664,No observed duplicates only,Documented by adoption,Lower alignment
+18,-0.024405199155814072,No observed duplicates only,Documented by adoption,Lower alignment
+19,-0.04367602897014666,No observed duplicates only,Documented by adoption,Lower alignment
+20,-0.07877007442224837,No observed duplicates only,Documented by adoption,Lower alignment
+21,-0.05555555555555558,Shared content only,Documented by adoption,Higher alignment
+23,-0.2950664136622391,Shared content only,Documented by adoption,Higher alignment
+24,0.3335789732252517,No observed duplicates only,Documented by adoption,Lower alignment
+25,0.06954489818626908,Shared content only,Documented by adoption,Higher alignment
+29,0.20750000000000002,Shared content only,Documented by adoption,Lower alignment
+30,-0.13663210312676632,No observed duplicates only,Documented by adoption,Lower alignment
+31,-0.0006246907471547658,No observed duplicates only,Documented by adoption,Lower alignment
+33,-0.12406028368794325,Shared content only,Documented by adoption,Lower alignment
+34,0.11689306861720655,Mixed content,Documented by adoption,Higher alignment
+35,0.24443018114391668,Shared content only,Documented by adoption,Lower alignment
+37,-0.21850145978052948,No observed duplicates only,Documented by adoption,Lower alignment
+39,0.1984378670425182,Mixed content,Documented by adoption,Higher alignment
+41,-0.06968641114982588,No observed duplicates only,Documented by adoption,Higher alignment
+42,0.29359473489061927,Mixed content,Documented by adoption,Lower alignment
+43,0.4397269397269397,No observed duplicates only,Not documented,Lower alignment
+45,-0.48906882591093126,Shared content only,Documented by adoption,Higher alignment
+47,-0.0563063063063064,No observed duplicates only,Documented by adoption,Lower alignment
+48,0.034334086965665866,No observed duplicates only,Documented by adoption,Lower alignment
+49,-0.11785714285714288,Mixed content,Documented by adoption,Lower alignment
+50,0.016071428571428625,Shared content only,Documented by adoption,Lower alignment
+51,0.003225806451612856,No observed duplicates only,Documented by adoption,Lower alignment
+53,-0.1238244514106583,Shared content only,Documented by adoption,Lower alignment
+54,-1.0705882352941176,Mixed content,Documented by adoption,Higher alignment
+55,-0.09711747947042082,No observed duplicates only,Documented by adoption,Lower alignment
+56,0.0448956356736242,Shared content only,Documented by adoption,Higher alignment
+57,0.0,No observed duplicates only,Documented by adoption,Lower alignment
+58,-0.09852216748768472,Shared content only,Documented by adoption,Lower alignment
+60,-0.3000992063492064,No observed duplicates only,Documented by adoption,Lower alignment
+61,-0.12772237782499518,No observed duplicates only,Documented by adoption,Higher alignment
+62,-0.08413461538461542,Shared content only,Documented by adoption,Higher alignment
+64,-0.217741935483871,No observed duplicates only,Documented by adoption,Lower alignment
+65,0.6296296296296297,Shared content only,Documented by adoption,Lower alignment
+66,0.0,Shared content only,Not documented,Lower alignment
+68,0.1390932222993293,No observed duplicates only,Documented by adoption,Higher alignment
+69,0.8422178488919311,Shared content only,Not documented,Higher alignment
+70,0.07762972031264725,Shared content only,Documented by adoption,Higher alignment
+71,-0.45227920227920226,No observed duplicates only,Documented by adoption,Lower alignment
+72,0.0050167224080267525,No observed duplicates only,Documented by adoption,Lower alignment
+73,0.12329434697855746,No observed duplicates only,Documented by adoption,Lower alignment
+77,0.0,No observed duplicates only,Documented by adoption,Higher alignment
+78,-0.041538461538461524,No observed duplicates only,Documented by adoption,Lower alignment
+79,-0.1988533205924511,No observed duplicates only,Documented by adoption,Higher alignment
+82,-0.09194805194805189,No observed duplicates only,Documented by adoption,Lower alignment
+87,-0.14066747206282082,No observed duplicates only,Documented by adoption,Lower alignment
+89,-0.09541062801932365,No observed duplicates only,Documented by adoption,Lower alignment
+90,-0.03985507246376818,Shared content only,Documented by adoption,Higher alignment
+94,0.13516783762685403,No observed duplicates only,Documented by adoption,Lower alignment
+95,-0.07807017543859651,Shared content only,Documented by adoption,Higher alignment
+97,-0.036532507739938075,No observed duplicates only,Documented by adoption,Higher alignment
+98,-0.22619047619047628,Shared content only,Documented by adoption,Lower alignment
+100,0.023809523809523836,No observed duplicates only,Documented by adoption,Lower alignment
+102,0.2379084967320262,No observed duplicates only,Documented by adoption,Higher alignment
+104,-0.09444444444444439,No observed duplicates only,Documented by adoption,Higher alignment
+105,0.05927698032961182,No observed duplicates only,Documented by adoption,Lower alignment
+106,0.02777777777777779,Shared content only,Not documented,Higher alignment
+110,0.09313725490196079,No observed duplicates only,Documented by adoption,Lower alignment
+111,0.8235294117647058,No observed duplicates only,Documented by adoption,Lower alignment
+112,0.25343406593406603,No observed duplicates only,Support start unknown,Lower alignment
+114,-0.10833333333333339,Shared content only,Documented by adoption,Lower alignment
+115,0.02857142857142858,Shared content only,Documented by adoption,Lower alignment
+118,-0.2588235294117647,Mixed content,Documented by adoption,Higher alignment
+119,0.10526315789473684,Shared content only,Documented by adoption,Lower alignment
+120,-0.17500000000000004,Shared content only,Documented by adoption,Higher alignment
+121,-0.6166666666666667,No observed duplicates only,Documented by adoption,Lower alignment
+124,-0.3047619047619047,Shared content only,Documented by adoption,Lower alignment
+125,0.19166666666666665,Shared content only,Documented by adoption,Higher alignment
+126,-0.4285714285714286,No observed duplicates only,Documented by adoption,Higher alignment
+129,0.16666666666666669,Mixed content,Documented by adoption,Lower alignment
+131,-0.20521390374331555,No observed duplicates only,Documented by adoption,Higher alignment
+133,0.08333333333333337,Shared content only,Documented by adoption,Higher alignment
+134,0.012820512820512775,No observed duplicates only,Documented by adoption,Lower alignment
+135,-0.09615384615384615,Shared content only,Documented by adoption,Lower alignment
+136,-0.14242424242424245,No observed duplicates only,Documented by adoption,Lower alignment
+137,-0.011904761904761918,No observed duplicates only,Documented by adoption,Higher alignment
+138,-0.5,Shared content only,Documented by adoption,Lower alignment
+139,-0.19999999999999996,No observed duplicates only,Documented by adoption,Higher alignment
+140,0.16333333333333333,No observed duplicates only,Not documented,Lower alignment
+143,0.0,No observed duplicates only,Not documented,Higher alignment
+144,-0.07080754494547581,No observed duplicates only,Documented by adoption,Higher alignment
+145,0.07817869415807566,Shared content only,Documented by adoption,Higher alignment
+147,0.3434343434343434,Shared content only,Documented by adoption,Higher alignment
+148,0.9252525252525252,No observed duplicates only,Documented by adoption,Lower alignment
+150,-0.24494949494949492,Shared content only,Not documented,Higher alignment
+151,0.2727272727272727,No observed duplicates only,Documented by adoption,Higher alignment
+152,0.04545454545454547,No observed duplicates only,Documented by adoption,Higher alignment
+153,-0.7474747474747475,Shared content only,Documented by adoption,Lower alignment
+156,0.8181818181818182,Shared content only,Documented by adoption,Higher alignment
+159,0.0,Shared content only,Documented by adoption,Lower alignment
+160,-0.2384615384615384,Shared content only,Documented by adoption,Higher alignment
+161,0.7421052631578947,Shared content only,Documented by adoption,Higher alignment
+162,-0.17500000000000004,Shared content only,Documented by adoption,Higher alignment
+164,0.0,Shared content only,Documented by adoption,Higher alignment
+165,1.05,Shared content only,Documented by adoption,Higher alignment
+166,-0.37777777777777777,No observed duplicates only,Not documented,Higher alignment
+168,-0.17402597402597397,Shared content only,Not documented,Lower alignment
+170,0.06818181818181823,No observed duplicates only,Documented by adoption,Higher alignment
+175,0.10584795321637419,No observed duplicates only,Documented by adoption,Lower alignment
+179,1.0,No observed duplicates only,Documented by adoption,Lower alignment
+180,0.5396825396825398,No observed duplicates only,Documented by adoption,Lower alignment
+185,0.2654970760233918,No observed duplicates only,Documented by adoption,Lower alignment
+187,-0.06349206349206349,Shared content only,Documented by adoption,Lower alignment
+188,-0.11111111111111105,No observed duplicates only,Documented by adoption,Higher alignment
+189,-1.0416666666666665,Shared content only,Documented by adoption,Lower alignment
+190,-0.7228260869565217,Shared content only,Not documented,Lower alignment
+191,-0.1428571428571429,No observed duplicates only,Documented by adoption,Higher alignment
+192,0.16666666666666663,Shared content only,Documented by adoption,Higher alignment
+193,0.027439024390243927,Shared content only,Documented by adoption,Higher alignment
+195,-0.16088631984585733,No observed duplicates only,Documented by adoption,Lower alignment
+197,0.0,Shared content only,Documented by adoption,Higher alignment
+204,-1.0,Shared content only,Documented by adoption,Lower alignment
+205,0.125,No observed duplicates only,Documented by adoption,Lower alignment
+207,-1.0714285714285714,Shared content only,Documented by adoption,Lower alignment
+209,-0.6904761904761905,Shared content only,Documented by adoption,Lower alignment
+211,0.37142857142857144,Shared content only,Documented by adoption,Higher alignment
+213,0.0,Shared content only,Documented by adoption,Higher alignment
+215,0.0714285714285714,Mixed content,Not documented,Higher alignment
+218,0.1428571428571428,No observed duplicates only,Documented by adoption,Higher alignment
+219,-0.5476190476190477,Shared content only,Documented by adoption,Lower alignment
+222,0.4415584415584416,No observed duplicates only,Documented by adoption,Higher alignment
+223,-0.4285714285714286,Shared content only,Documented by adoption,Lower alignment
+227,-0.17647058823529416,Shared content only,Documented by adoption,Lower alignment
+231,-0.875,No observed duplicates only,Documented by adoption,Lower alignment
+233,-0.27083333333333337,No observed duplicates only,Documented by adoption,Higher alignment
+236,0.0,No observed duplicates only,Documented by adoption,Higher alignment
+238,-0.0656213704994193,No observed duplicates only,Documented by adoption,Higher alignment
+239,0.8333333333333334,Shared content only,Documented by adoption,Lower alignment
+240,0.2,No observed duplicates only,Documented by adoption,Lower alignment
+241,0.0,Shared content only,Documented by adoption,Higher alignment
+245,-0.7916666666666667,No observed duplicates only,Documented by adoption,Higher alignment
+250,0.35,No observed duplicates only,Documented by adoption,Lower alignment
+260,0.052631578947368474,No observed duplicates only,Documented by adoption,Higher alignment
+262,-0.19999999999999996,Mixed content,Documented by adoption,Higher alignment
+266,0.0,Mixed content,Documented by adoption,Higher alignment
+267,-0.8,No observed duplicates only,Documented by adoption,Higher alignment
+268,-0.21052631578947367,No observed duplicates only,Documented by adoption,Higher alignment
+269,0.30000000000000004,Shared content only,Documented by adoption,Higher alignment
+271,0.13333333333333336,No observed duplicates only,Documented by adoption,Higher alignment
+272,0.0,No observed duplicates only,Not documented,Lower alignment
+274,-0.07362318840579718,No observed duplicates only,Documented by adoption,Higher alignment
+275,0.16666666666666669,No observed duplicates only,Documented by adoption,Higher alignment
+276,-0.031182795698924792,No observed duplicates only,Documented by adoption,Higher alignment
+279,-0.6111111111111112,Mixed content,Documented by adoption,Higher alignment
+286,-0.032786885245901676,No observed duplicates only,Documented by adoption,Higher alignment
+290,0.0,No observed duplicates only,Documented by adoption,Higher alignment
+293,0.09090909090909094,No observed duplicates only,Documented by adoption,Higher alignment
+301,-1.1666666666666667,Shared content only,Documented by adoption,Lower alignment
+303,-0.5833333333333333,No observed duplicates only,Documented by adoption,Higher alignment
+304,-1.2222222222222223,No observed duplicates only,Documented by adoption,Lower alignment
+312,-0.5,No observed duplicates only,Documented by adoption,Higher alignment
+320,0.0,Shared content only,Documented by adoption,Lower alignment
+321,0.0,Shared content only,Documented by adoption,Higher alignment
+322,0.8333333333333334,Mixed content,Documented by adoption,Higher alignment
+325,-0.15384615384615385,No observed duplicates only,Documented by adoption,Higher alignment
+328,-1.8571428571428572,No observed duplicates only,Documented by adoption,Higher alignment
+333,-0.875,No observed duplicates only,Documented by adoption,Higher alignment
+337,-0.875,Mixed content,Documented by adoption,Higher alignment
+342,-0.08333333333333337,No observed duplicates only,Documented by adoption,Lower alignment
+343,-0.48275862068965525,No observed duplicates only,Documented by adoption,Lower alignment
+345,0.33333333333333337,Shared content only,Documented by adoption,Higher alignment
+350,-0.19999999999999996,No observed duplicates only,Documented by adoption,Higher alignment
+351,1.0,No observed duplicates only,Documented by adoption,Higher alignment
+352,0.0,No observed duplicates only,Documented by adoption,Higher alignment
+353,0.6666666666666667,No observed duplicates only,Documented by adoption,Higher alignment
+354,0.95,Shared content only,Documented by adoption,Lower alignment
+355,-0.75,No observed duplicates only,Documented by adoption,Lower alignment
+356,0.0,No observed duplicates only,Documented by adoption,Lower alignment
