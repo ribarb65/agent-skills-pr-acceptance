@@ -20,33 +20,80 @@ on first run (about 400 MB) and reuse them afterwards.
 
 ## Reproduce
 
-```bash
-python3 -m venv .venv
-.venv/bin/pip install -r requirements.txt
-.venv/bin/jupyter nbconvert --to notebook --execute --inplace notebooks/00_phase0_feasibility.ipynb
-```
+The analysis uses Python, DuckDB, GitSkills, and AIDev v5.
+Dataset revisions are pinned in the notebooks.
 
-| Step | Script | Outputs |
-|---|---|---|
-| Phase 0 — feasibility (schemas, adoption dates, funnel) | `notebooks/00_phase0_feasibility.ipynb` | `data/processed/phase0_funnel.csv`, `figures/phase0_*.png` |
-| Course proposal | `report/build_proposal.py`, `report/docx_to_pdf.py` | `report/Project_Proposal.{docx,pdf}` |
+Run these commands from the repository root, in order:
 
-## Repository layout
+    python3 -m venv .venv
+    .venv/bin/python -m pip install -r requirements.txt
+    .venv/bin/jupyter nbconvert --to notebook --execute --inplace notebooks/00_phase0_feasibility.ipynb
+    .venv/bin/jupyter nbconvert --to notebook --execute --inplace notebooks/01_rq1_analysis.ipynb
+    .venv/bin/jupyter nbconvert --to notebook --execute --inplace notebooks/02_rq2_analysis.ipynb
+    .venv/bin/python scripts/13_export_cleaned_matched_pairs.py
 
-```
-data/raw/        downloaded extracts (git-ignored, never modified)
-data/interim/    intermediate tables (git-ignored)
-data/processed/  small result tables
-data/external/   hand-curated reference tables with sources
-notebooks/       analysis notebooks, executed with outputs
-figures/         generated figures
-report/          proposal and paper sources
-src/             reusable code
-```
+The initial execution requires Internet access to download the pinned
+source datasets. Local Parquet extracts are cached for subsequent runs.
+Full end-to-end execution in a fresh environment has not been independently verified.
 
-## Ethics and personal data
+## Cleaned Analytical Dataset
 
-Only public data are used. No personally identifiable information is downloaded or stored: the extracts exclude
-user logins, pull-request titles and bodies, and commit messages. GitSkills already replaces commit authors with
-keyed one-way codes. Any data collected later through the GitHub API will pseudonymise human accounts at
-collection time with a keyed one-way hash whose key never leaves the collecting machine.
+The cleaned analytical dataset is located at:
+
+    data/cleaned_matched_pairs.csv
+
+It contains 424 matched treated-control repository pairs.
+
+Each row includes repository identifiers, adoption date, pre-adoption
+PR activity, matching distance, and available outcome measurements.
+
+The complete_case indicator identifies the 184 pairs with valid
+before-and-after PR merge rates for both treated and control repositories.
+
+The remaining 240 pairs retain missing outcome values as missing,
+rather than replacing them with zero.
+
+For complete pairs, the dataset also contains the RQ2 classifications
+for task-skill alignment, documented agent-skill compatibility,
+and observed skill-content reuse.
+
+This file is a cleaned, aggregated analytical dataset, not the
+complete individual pull-request corpus.
+
+The export is generated and validated by:
+
+    scripts/13_export_cleaned_matched_pairs.py
+
+## Repository Structure
+
+- data/cleaned_matched_pairs.csv: Cleaned analytical dataset
+- data/processed/: Analysis results and statistical tables
+- data/external/: Curated compatibility reference
+- data/raw/: Downloaded source extracts, excluded from Git
+- data/interim/: Intermediate datasets, excluded from Git
+- notebooks/: Phase 0, RQ1, and RQ2 analyses
+- scripts/: Validation and dataset export scripts
+- figures/: Generated research figures
+- report/: Project proposal and final report materials
+- requirements.txt: Pinned Python dependencies
+
+## Methodological Limitations
+
+The main RQ1 analysis uses 184 complete pairs out of 424 matched pairs.
+
+The study is observational and does not establish causal effects.
+
+Historical skill content cannot always be reconstructed exactly.
+Documented agent-skill compatibility does not prove actual skill usage.
+Identical content hashes indicate observed reuse, not the direction
+of copying or local authorship.
+
+The historically restricted RQ2 sample contains 86 pairs.
+Its findings should not automatically be generalized to all repositories.
+
+## Data and Privacy
+
+The analysis relies on public GitHub-related research datasets.
+RQ2 processes pull-request titles, descriptions, and skill content.
+Local intermediate extracts may contain identifying information
+and are excluded from the Git repository.
