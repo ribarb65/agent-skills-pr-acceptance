@@ -1,0 +1,425 @@
+treated_repo,control_repo,adoption_ts,treated_pre_30_prs,treated_pre_30_agents,control_pre_30_prs,control_pre_30_agents,match_distance,pair_id,treated_before,treated_after,control_before,control_after,treated_change,control_change,did,reuse_group,compat_group,alignment_group,complete_case
+ops-pivers/lifebalance,nagiyu/nagiyu-platform,2026-01-27 00:24:37,326,3,235,2,1.076128365871643,1,0.8619631901840491,1.0,0.8808510638297873,0.9289099526066351,0.1380368098159509,0.04805888877684783,0.08997792103910307,No observed duplicates only,Documented by adoption,Lower alignment,True
+gioe/aiq,bytebase/bytebase,2026-01-05 00:44:49,320,1,226,1,0.34649110564861285,2,1.0,0.9978118161925602,0.9778761061946902,0.9607843137254902,-0.002188183807439792,-0.017091792469200007,0.014903608661760215,No observed duplicates only,Documented by adoption,Lower alignment,True
+chippr-robotics/prediction-dao-research,zbigniewsobiecki/llmist,2026-01-16 03:14:32,229,1,159,1,0.362905493689369,3,0.9737991266375546,0.8571428571428571,1.0,1.0,-0.11665626949469754,0.0,-0.11665626949469754,No observed duplicates only,Documented by adoption,Lower alignment,True
+robinmordasiewicz/terraform-provider-f5xc,dataplat/dbatools,2025-12-04 01:29:26,209,1,66,1,1.1424149113265027,4,0.9712918660287081,0.9,0.9242424242424242,1.0,-0.07129186602870807,0.0757575757575758,-0.14704944178628387,Shared content only,Documented by adoption,Higher alignment,True
+uspark-hq/uspark,papyszoo/modelibr,2025-10-17 23:19:37,172,1,172,1,0.0,5,0.9418604651162791,0.9705882352941176,0.9069767441860465,0.7037037037037037,0.028727770177838563,-0.20327304048234274,0.2320008106601813,Shared content only,Documented by adoption,Lower alignment,True
+carmentacollective/carmenta,bstewart2255/speddy,2025-12-10 21:22:52,108,1,57,1,0.6309048716827244,6,0.9722222222222222,0.9704142011834319,1.0,1.0,-0.0018080210387902973,0.0,-0.0018080210387902973,Shared content only,Documented by adoption,Lower alignment,True
+charlesmsiegel/tg,drzero42/nexorious,2026-01-14 04:07:32,107,1,113,1,0.054067221270275745,7,,,,,,,,,,,False
+trevor-scheer/graphql-analyzer,anselmoo/mcp-ai-agent-guidelines,2026-01-12 00:31:12,107,1,108,1,0.009216655104923532,8,0.8691588785046729,0.9523809523809523,0.8333333333333334,1.0,0.08322207387627945,0.16666666666666663,-0.08344459279038718,No observed duplicates only,Documented by adoption,Higher alignment,True
+mizunashi-mana/picstash,andymai/gridfinity-layout-tool,2026-01-29 13:33:29,98,2,73,2,0.2910547569304196,9,0.9795918367346939,0.984375,0.9726027397260274,0.9444444444444444,0.004783163265306145,-0.02815829528158298,0.032941458546889124,No observed duplicates only,Documented by adoption,Higher alignment,True
+degrassiaaron/influencerai-monorepo,devopsmaddog/fixops,2025-10-18 09:54:47,96,2,93,2,0.03141619623337899,10,0.96875,1.0,0.7419354838709677,0.0,0.03125,-0.7419354838709677,0.7731854838709677,Mixed content,Documented by adoption,Lower alignment,True
+chunlea/marionette,rjwalters/lean-genius,2026-01-13 08:26:30,92,1,95,1,0.031748698314579826,11,0.8478260869565217,1.0,1.0,0.9501216545012166,0.15217391304347827,-0.04987834549878345,0.20205225854226172,No observed duplicates only,Documented by adoption,Lower alignment,True
+garethbaumgart/praxis-note,cebartling/acme-inc-2026,2026-01-17 03:43:20,90,2,53,2,0.5218754599525752,12,0.9666666666666667,0.9852216748768473,0.9433962264150944,1.0,0.018555008210180635,0.05660377358490565,-0.03804876537472501,No observed duplicates only,Documented by adoption,Lower alignment,True
+neongreen/mono,nikolaymetchev/money-manager,2025-11-30 08:15:12,88,3,50,2,1.306810737007814,13,0.875,0.5,0.98,0.9882352941176471,-0.375,0.008235294117647118,-0.3832352941176471,No observed duplicates only,Documented by adoption,Lower alignment,True
+so-ta/ai-orchestration,tnorlund/portfolio,2026-01-18 00:59:46,88,1,90,1,0.022223136784710107,14,1.0,1.0,0.8555555555555555,0.6938775510204082,0.0,-0.16167800453514736,0.16167800453514736,No observed duplicates only,Documented by adoption,Higher alignment,True
+igorganapolsky/trading,eyelock/termq,2026-01-30 23:13:50,87,1,85,1,0.022989518224699523,15,,,,,,,,,,,False
+lbds137/tzurot,meziantou/meziantou.framework,2025-11-19 18:24:12,82,1,68,1,0.18473410319933858,16,0.9390243902439024,0.9879518072289156,0.8088235294117647,1.0,0.04892741698501324,0.19117647058823528,-0.14224905360322204,No observed duplicates only,Documented by adoption,Higher alignment,True
+hiromaily/go-crypto-wallet,fwojciec/jira4claude,2026-01-03 02:23:57,80,1,74,1,0.076961041136129,17,0.9875,0.9491525423728814,1.0,1.0,-0.038347457627118664,0.0,-0.038347457627118664,No observed duplicates only,Documented by adoption,Lower alignment,True
+zeroae/zae-limiter,anthony-spruyt/container-images,2026-01-18 16:22:59,79,1,82,1,0.03681397312271706,18,0.9746835443037974,0.9523809523809523,0.9634146341463414,0.9655172413793104,-0.022302591922845116,0.002102607232968956,-0.024405199155814072,No observed duplicates only,Documented by adoption,Lower alignment,True
+jiki-education/front-end,boardsesh/boardsesh,2026-01-25 21:37:52,74,1,72,1,0.027028672387919173,19,0.9864864864864865,0.9705882352941176,0.9166666666666666,0.9444444444444444,-0.015898251192368873,0.02777777777777779,-0.04367602897014666,No observed duplicates only,Documented by adoption,Lower alignment,True
+ms2sato/agent-console,choco-technologies/dmod,2025-12-17 23:39:37,74,1,46,1,0.4673405118262517,20,0.972972972972973,0.9666666666666667,0.7608695652173914,0.8333333333333334,-0.006306306306306353,0.07246376811594202,-0.07877007442224837,No observed duplicates only,Documented by adoption,Lower alignment,True
+anveio/conveaux,letsrevel/revel-frontend,2025-12-16 20:27:07,67,1,47,1,0.3483066942682158,21,1.0,0.9444444444444444,1.0,1.0,-0.05555555555555558,0.0,-0.05555555555555558,Shared content only,Documented by adoption,Higher alignment,True
+bacoco/aidesigner,harborgrid-justin/white-cross,2025-11-04 05:59:37,66,2,65,2,0.015037877364540542,22,,,,,,,,,,,False
+vitorsilva/saberloop,abhimehro/email-security-pipeline,2026-01-15 16:34:46,61,1,62,1,0.016000341346440905,23,1.0,1.0,0.3225806451612903,0.6176470588235294,0.0,0.2950664136622391,-0.2950664136622391,Shared content only,Documented by adoption,Higher alignment,True
+existential-birds/amelia,canstralian/codetunestudio,2025-12-20 18:53:21,59,2,60,2,0.01652930195121094,24,0.8983050847457628,0.9652173913043478,0.26666666666666666,0.0,0.06691230655858504,-0.26666666666666666,0.3335789732252517,No observed duplicates only,Documented by adoption,Lower alignment,True
+bwbama85/wp-migrate.sh,calca/caravella,2025-10-21 04:35:30,57,1,43,1,0.2762533766281581,25,0.9473684210526315,1.0,0.7441860465116279,0.7272727272727273,0.052631578947368474,-0.016913319238900604,0.06954489818626908,Shared content only,Documented by adoption,Higher alignment,True
+4eyedengineer/4eyed_development,alpro1000/oneiro-scope,2025-12-31 20:02:55,53,1,53,1,0.0,26,,,,,,,,,,,False
+eco2-team/backend,takas0522/comical,2026-01-18 18:00:15,52,1,55,1,0.05505977718302768,27,,,,,,,,,,,False
+masaodev/quick-dash-launcher,myoshi2891/the-wild-oasis-for-user,2026-01-05 09:48:07,50,1,41,1,0.19415601444095731,28,,,,,,,,,,,False
+spiralhouse/cycletime,chayuto/solitaire,2025-11-20 05:27:56,50,1,50,1,0.0,29,0.96,0.9375,0.98,0.75,-0.022499999999999964,-0.22999999999999998,0.20750000000000002,Shared content only,Documented by adoption,Lower alignment,True
+4eyedengineer/mcp-everything,vfilby/migralog,2025-12-04 13:55:25,49,1,43,1,0.12783337150988494,30,0.9795918367346939,0.9787234042553191,0.8372093023255814,0.972972972972973,-0.0008684324793747367,0.1357636706473916,-0.13663210312676632,No observed duplicates only,Documented by adoption,Lower alignment,True
+ikeniborn/familybudget,operaton/operaton,2026-01-10 18:19:32,49,1,47,1,0.04082199452025481,31,1.0,0.9875,0.8723404255319149,0.8604651162790697,-0.012499999999999956,-0.01187530925284519,-0.0006246907471547658,No observed duplicates only,Documented by adoption,Lower alignment,True
+taketo-yoda/uv-sbom,rtrimble13/arima-garch,2026-01-21 12:56:40,49,1,54,1,0.09531017980432521,32,,,,,,,,,,,False
+sorryhyun/dipeo,pythagorakase/nexus,2025-10-18 04:21:29,47,2,48,2,0.020619287202735315,33,0.9148936170212766,1.0,0.2708333333333333,0.48,0.08510638297872342,0.20916666666666667,-0.12406028368794325,Shared content only,Documented by adoption,Lower alignment,True
+finos/morphir-dotnet,clearmeasurelabs/bootcamp-palermo-workorders,2025-12-19 18:33:30,45,2,55,2,0.19671029424605457,34,0.9777777777777777,0.9310344827586207,0.16363636363636364,0.0,-0.04674329501915708,-0.16363636363636364,0.11689306861720655,Mixed content,Documented by adoption,Higher alignment,True
+hyperlane-xyz/hyperlane-monorepo,alexandru-savinov/nixos-config,2026-01-15 20:09:31,45,1,45,1,0.0,35,0.5333333333333333,0.7368421052631579,0.9555555555555556,0.9146341463414634,0.20350877192982453,-0.04092140921409215,0.24443018114391668,Shared content only,Documented by adoption,Lower alignment,True
+jey3dayo/pr-insights-labeler,harborgrid-justin/purple-cross,2025-11-15 05:31:40,45,2,40,2,0.11506932978478712,36,,,,,,,,,,,False
+d0nghyun/neuron,shuhei1101/quest-pay,2026-01-22 10:16:06,44,1,43,1,0.022472855852058604,37,0.9318181818181818,0.7142857142857143,0.7906976744186046,0.7916666666666666,-0.21753246753246747,0.0009689922480620172,-0.21850145978052948,No observed duplicates only,Documented by adoption,Lower alignment,True
+matchpoint-ai/matchpoint-github-runners-helm,localgod/polaris,2025-12-12 14:57:54,44,1,28,1,0.4393666597838455,38,,,,,,,,,,,False
+vide/matedroid,paveg/funailog,2026-01-19 09:24:18,44,1,43,1,0.022472855852058604,39,0.9772727272727273,0.8888888888888888,0.9534883720930233,0.6666666666666666,-0.08838383838383845,-0.28682170542635665,0.1984378670425182,Mixed content,Documented by adoption,Higher alignment,True
+susumutomita/tenkacloud,xertox1234/plant_id_community,2025-12-07 00:51:05,42,1,27,1,0.4289956055183586,40,,,,,,,,,,,False
+kingler/v0-jetvision-assistant,belaltaher8/test,2025-11-14 17:57:39,41,1,41,1,0.0,41,0.926829268292683,0.8571428571428571,0.0,0.0,-0.06968641114982588,0.0,-0.06968641114982588,No observed duplicates only,Documented by adoption,Higher alignment,True
+plebeianapp/market,andrewgari/starbunk-js,2026-01-06 08:44:22,40,2,31,2,0.2478361639045814,42,0.775,0.896551724137931,0.8387096774193549,0.6666666666666666,0.12155172413793103,-0.17204301075268824,0.29359473489061927,Mixed content,Documented by adoption,Lower alignment,True
+davidruzicka/mcp4openapi,starrocks/starrocks,2026-01-22 12:17:39,39,2,33,2,0.1625189294977747,43,0.358974358974359,0.7142857142857143,0.7272727272727273,0.6428571428571429,0.3553113553113553,-0.08441558441558439,0.4397269397269397,No observed duplicates only,Not documented,Lower alignment,True
+tomodo1773/podcast-queue,jwmcglynn/donner,2026-01-02 12:06:45,39,2,19,2,0.6931471805599454,44,,,,,,,,,,,False
+graphlessdb/graphlessdb,mustafamuse/irshad-center,2025-12-07 16:16:01,38,1,26,1,0.3677247801253172,45,0.9736842105263158,0.5,0.8846153846153846,0.9,-0.4736842105263158,0.015384615384615441,-0.48906882591093126,Shared content only,Documented by adoption,Higher alignment,True
+kayac/nepp-chan,ac484/qrl-url,2026-01-29 06:37:37,38,1,39,1,0.025317807984289953,46,,,,,,,,,,,False
+danfeder/esnyc-lesson-search-react,psd-tools/psd-tools,2025-12-04 22:12:45,37,1,27,1,0.30538164955118186,47,0.972972972972973,0.9166666666666666,1.0,1.0,-0.0563063063063064,0.0,-0.0563063063063064,No observed duplicates only,Documented by adoption,Lower alignment,True
+bsamiee/parametric_portal,theepicsaxguy/homelab,2025-12-07 10:57:40,35,3,26,2,1.0376820724517808,48,0.7142857142857143,0.6818181818181818,0.9615384615384616,0.8947368421052632,-0.032467532467532534,-0.0668016194331984,0.034334086965665866,No observed duplicates only,Documented by adoption,Lower alignment,True
+deanmoses/tacocat-gallery-sam,bluedotbrigade/weevil,2026-01-19 06:30:03,35,1,32,1,0.08701137698962969,49,1.0,0.9,0.875,0.8928571428571429,-0.09999999999999998,0.017857142857142905,-0.11785714285714288,Mixed content,Documented by adoption,Lower alignment,True
+dfujiwara/kindle-notes-reminder,cmintert/projektkraken,2026-01-03 12:37:58,35,1,32,1,0.08701137698962969,50,0.9714285714285714,0.8125,0.875,0.7,-0.15892857142857142,-0.17500000000000004,0.016071428571428625,Shared content only,Documented by adoption,Lower alignment,True
+josefjura/hockey,chrisguidry/docket,2025-12-31 11:46:24,35,1,31,1,0.11778303565638337,51,0.9714285714285714,1.0,0.9032258064516129,0.9285714285714286,0.02857142857142858,0.025345622119815725,0.003225806451612856,No observed duplicates only,Documented by adoption,Lower alignment,True
+outfitter-dev/navigator,how2ai-agency/aimusicverse,2026-01-18 12:47:22,35,1,39,1,0.10536051565782634,52,,,,,,,,,,,False
+carrotwaxr/peek-stash-browser,guitarbeat/slavv2python,2026-01-16 19:29:17,34,1,29,1,0.15415067982725805,53,1.0,1.0,0.10344827586206896,0.22727272727272727,0.0,0.1238244514106583,-0.1238244514106583,Shared content only,Documented by adoption,Lower alignment,True
+klimabevaegelsen/landbruget.dk,ctol3r/vitalcv,2026-01-17 19:05:58,34,1,40,1,0.15822400521489444,54,0.9705882352941176,0.9,0.0,1.0,-0.07058823529411762,1.0,-1.0705882352941176,Mixed content,Documented by adoption,Higher alignment,True
+ok-very/autoart,openshift/release,2026-01-28 05:19:13,34,1,33,1,0.02898753687325195,55,0.7352941176470589,0.7307692307692307,0.6666666666666666,0.7592592592592593,-0.004524886877828149,0.09259259259259267,-0.09711747947042082,No observed duplicates only,Documented by adoption,Lower alignment,True
+tailwind8/portfolio-reserve,masatomix/evmtools-node,2026-01-01 22:29:46,34,1,31,1,0.08961215868968697,56,0.9705882352941176,1.0,0.9354838709677419,0.92,0.02941176470588236,-0.015483870967741842,0.0448956356736242,Shared content only,Documented by adoption,Higher alignment,True
+aptx-health/ripit-fitness,coding-with-nox/monte-san-savino-app,2026-01-29 00:27:55,33,1,33,1,0.0,57,0.9696969696969697,1.0,0.9696969696969697,1.0,0.030303030303030276,0.030303030303030276,0.0,No observed duplicates only,Documented by adoption,Lower alignment,True
+ftvision/ftvision.github.io,develop4god/devocional_nuevo,2025-12-26 05:50:26,33,1,29,1,0.1251631429540061,58,1.0,1.0,0.7586206896551724,0.8571428571428571,0.0,0.09852216748768472,-0.09852216748768472,Shared content only,Documented by adoption,Lower alignment,True
+t0k0sh1/chronia,nep-app/nep-app,2025-12-13 08:10:39,33,1,25,1,0.2682639865946794,59,,,,,,,,,,,False
+eretica/github-gh-reminder,llm-d/llm-d-workload-variant-autoscaler,2026-01-11 15:27:07,32,2,28,2,0.1292117314800061,60,0.84375,0.5714285714285714,0.75,0.7777777777777778,-0.2723214285714286,0.02777777777777779,-0.3000992063492064,No observed duplicates only,Documented by adoption,Lower alignment,True
+jkomoros/community-patterns,vscarpenter/gsd-task-manager,2025-11-21 22:06:04,32,1,31,1,0.030771658666753687,61,0.96875,0.9700598802395209,0.8709677419354839,1.0,0.0013098802395209441,0.12903225806451613,-0.12772237782499518,No observed duplicates only,Documented by adoption,Higher alignment,True
+sw-campus/sw-campus-server,tatolab/streamlib,2026-01-18 12:28:05,32,1,26,1,0.2006706954621511,62,0.96875,1.0,0.8846153846153846,1.0,0.03125,0.11538461538461542,-0.08413461538461542,Shared content only,Documented by adoption,Higher alignment,True
+alorma/caducity,arwikicats/cats_maker,2026-01-03 00:01:23,31,2,17,2,0.575364144903562,63,,,,,,,,,,,False
+harshanandak/roadmap,juliencr/obs-live-suite,2026-01-17 07:13:29,31,1,24,1,0.24686007793152598,64,0.967741935483871,0.75,1.0,1.0,-0.217741935483871,0.0,-0.217741935483871,No observed duplicates only,Documented by adoption,Lower alignment,True
+rolldown/rolldown,tonkotsuboy/kano-portfolio,2026-01-20 05:11:41,31,2,27,2,0.13353139262452274,65,0.4838709677419355,0.4838709677419355,0.6296296296296297,0.0,0.0,-0.6296296296296297,0.6296296296296297,Shared content only,Documented by adoption,Lower alignment,True
+aikdeirel/daily-pulse-chatbot,segevelior/ripped-potato,2025-12-14 07:36:28,30,1,25,1,0.17589066646366414,66,0.8,0.8,1.0,1.0,0.0,0.0,0.0,Shared content only,Not documented,Lower alignment,True
+christopherdebeer/machine,banshee-data/velocity.report,2025-12-02 16:29:00,30,2,29,2,0.03278982282299081,67,,,,,,,,,,,False
+mbailey/voicemode,pvliesdonk/questfoundry,2026-01-06 18:19:33,30,1,33,1,0.09237332013101529,68,0.7,0.8,0.8787878787878788,0.8396946564885496,0.10000000000000009,-0.03909322229932921,0.1390932222993293,No observed duplicates only,Documented by adoption,Higher alignment,True
+calcitem/sanmill,rpillai25/pithero,2025-10-18 02:49:55,29,1,31,1,0.06453852113757108,69,0.13793103448275862,1.0,0.9032258064516129,0.9230769230769231,0.8620689655172413,0.01985111662531025,0.8422178488919311,Shared content only,Not documented,Higher alignment,True
+connerohnesorge/conclaude,stranske/workflows,2025-12-23 16:40:39,28,2,37,2,0.2702903297399115,70,0.8571428571428571,0.9,0.918918918918919,0.8841463414634146,0.04285714285714293,-0.03477257745550433,0.07762972031264725,Shared content only,Documented by adoption,Higher alignment,True
+gbleu/ok-pour-moi,openobserve/openobserve,2026-01-28 06:30:35,27,2,26,2,0.03636764417087468,71,0.8518518518518519,0.75,0.5384615384615384,0.8888888888888888,-0.10185185185185186,0.3504273504273504,-0.45227920227920226,No observed duplicates only,Documented by adoption,Lower alignment,True
+noricha-vr/vrc-ta-hub,nick-boey/fleece,2026-01-27 12:52:09,27,1,26,1,0.03636764417087468,72,1.0,1.0,0.9615384615384616,0.9565217391304348,0.0,-0.0050167224080267525,0.0050167224080267525,No observed duplicates only,Documented by adoption,Lower alignment,True
+schmitthub/clawker,lincc-frameworks/hyrax,2026-01-28 23:38:55,27,1,27,1,0.0,73,1.0,0.9473684210526315,0.8148148148148148,0.6388888888888888,-0.052631578947368474,-0.17592592592592593,0.12329434697855746,No observed duplicates only,Documented by adoption,Lower alignment,True
+spartdev/my-prompt-manager,leonardo8133/financial-monitor,2025-10-18 19:50:08,27,2,29,2,0.06899287148695166,74,,,,,,,,,,,False
+tektoncd/pipelines-as-code,forge-game-engine/forge,2026-01-14 12:27:03,27,1,23,1,0.15415067982725805,75,,,,,,,,,,,False
+bumfo/spark-protobuf-backport,crackalamoo/building-earth,2025-10-21 09:42:52,26,1,27,1,0.03636764417087468,76,,,,,,,,,,,False
+creepyblues/kstorybridge-integrated,koizuka/echonet-list,2026-01-02 17:58:43,26,1,27,1,0.03636764417087468,77,1.0,1.0,1.0,1.0,0.0,0.0,0.0,No observed duplicates only,Documented by adoption,Higher alignment,True
+lucaswall/adva-administracion,akinening/log,2026-01-26 20:34:52,26,1,25,1,0.03774032798284699,78,0.9615384615384616,1.0,0.92,1.0,0.038461538461538436,0.07999999999999996,-0.041538461538461524,No observed duplicates only,Documented by adoption,Lower alignment,True
+model-geek/japanese-holidays,rubyforgood/awbw,2026-01-30 15:07:38,26,1,25,1,0.03774032798284699,79,0.9230769230769231,1.0,0.6,0.8757763975155279,0.07692307692307687,0.27577639751552796,-0.1988533205924511,No observed duplicates only,Documented by adoption,Higher alignment,True
+oldsj/mainloop,whereiskurt/defcon.run.34,2026-01-16 17:50:01,26,1,24,1,0.07696104113612856,80,,,,,,,,,,,False
+pprice/vole,lynx-family/lynx-website,2026-01-06 00:10:48,26,1,24,1,0.07696104113612856,81,,,,,,,,,,,False
+pheuter/svelte-check-rs,practitionist/familiarise_web,2026-01-30 18:47:29,25,1,25,1,0.0,82,0.96,0.8571428571428571,0.92,0.9090909090909091,-0.10285714285714287,-0.01090909090909098,-0.09194805194805189,No observed duplicates only,Documented by adoption,Lower alignment,True
+powerfulmoves/pmoves-dox,adbrowne/smelt-sql,2026-01-27 04:16:34,25,1,24,1,0.03922071315328157,83,,,,,,,,,,,False
+swszz/oh-my-claude,ffmemes/ff-backend,2025-10-23 03:00:21,25,1,24,1,0.03922071315328157,84,,,,,,,,,,,False
+tult98/camera-store,chicagodave/sharpee,2026-01-18 16:19:14,25,1,22,1,0.12260232209233246,85,,,,,,,,,,,False
+culpritchaos/interlock,openstory-so/openstory,2026-01-10 22:11:25,24,2,14,2,0.5108256237659905,86,,,,,,,,,,,False
+handley-lab/mcp-handley-lab,semianalysisai/inferencex,2026-01-24 12:21:18,24,1,22,1,0.08338160893905089,87,0.9166666666666666,0.9534883720930233,0.7272727272727273,0.9047619047619048,0.036821705426356655,0.17748917748917747,-0.14066747206282082,No observed duplicates only,Documented by adoption,Lower alignment,True
+anton-pt/algojuke,martin-janci/property-management,2026-01-10 13:35:45,23,1,22,1,0.04255961441879608,88,,,,,,,,,,,False
+shawn-sandy/acss,samanhappy/mcphub,2025-11-07 07:01:52,23,2,24,2,0.04082199452025481,89,0.9565217391304348,0.8333333333333334,0.5833333333333334,0.5555555555555556,-0.12318840579710144,-0.02777777777777779,-0.09541062801932365,No observed duplicates only,Documented by adoption,Lower alignment,True
+toku345/marp-slides,luthienresearch/luthien-proxy,2025-12-21 10:55:40,23,1,24,1,0.04082199452025481,90,0.9565217391304348,1.0,0.7916666666666666,0.875,0.04347826086956519,0.08333333333333337,-0.03985507246376818,Shared content only,Documented by adoption,Higher alignment,True
+m96-chan/pygpukit,timvw/wt,2025-12-28 03:46:41,22,1,21,1,0.04445176257083361,91,,,,,,,,,,,False
+bacoco/bmad-skills,dbolser/demonstrable-plotalizer,2025-10-30 06:25:50,21,2,16,2,0.2578291093020999,92,,,,,,,,,,,False
+possumworx/claude-autonomy-platform,jimmy058910/jmo-security-repo,2025-11-10 10:50:19,21,1,21,1,0.0,93,,,,,,,,,,,False
+sorafujitani/rfmt,data-wise/scholar,2026-01-22 15:24:54,20,1,21,1,0.04652001563489305,94,0.85,1.0,0.9523809523809523,0.9672131147540983,0.15000000000000002,0.014832162373145996,0.13516783762685403,No observed duplicates only,Documented by adoption,Lower alignment,True
+talmolab/sleap,edumips64/edumips64,2025-12-22 08:15:10,20,1,19,1,0.04879016416943216,95,0.85,0.9824561403508771,0.7894736842105263,1.0,0.13245614035087716,0.21052631578947367,-0.07807017543859651,Shared content only,Documented by adoption,Higher alignment,True
+jamesjlundin/full-stack-web-and-mobile-template,smucclaw/l4-ide,2025-12-27 18:00:17,19,1,17,1,0.10536051565782634,96,,,,,,,,,,,False
+paulbreuler/limps,promptroot/promptroot,2026-01-28 23:16:59,19,2,19,2,0.0,97,0.9473684210526315,0.8529411764705882,0.15789473684210525,0.1,-0.09442724458204332,-0.05789473684210525,-0.036532507739938075,No observed duplicates only,Documented by adoption,Higher alignment,True
+allenai/open-instruct,youngchingjui/issue-to-pr,2026-01-06 18:40:41,18,2,14,2,0.2363887780642302,98,0.8333333333333334,0.6071428571428571,0.7142857142857143,0.7142857142857143,-0.22619047619047628,0.0,-0.22619047619047628,Shared content only,Documented by adoption,Lower alignment,True
+blueeventhorizon/swift-selena,visulima/visulima,2025-10-26 16:21:15,18,1,18,1,0.0,99,,,,,,,,,,,False
+ethereum/ethereum-org-website,datazoode/anofox-forecast,2026-01-15 13:43:11,18,1,18,1,0.0,100,0.9444444444444444,0.8571428571428571,1.0,0.8888888888888888,-0.08730158730158732,-0.11111111111111116,0.023809523809523836,No observed duplicates only,Documented by adoption,Lower alignment,True
+falkicon/noisett,paddlepaddle/fastdeploy,2026-01-15 03:48:12,18,1,19,1,0.05129329438755059,101,,,,,,,,,,,False
+jackzampolin/shelf,matsudamper/folderviewer,2026-01-13 22:04:56,18,1,17,1,0.054067221270275745,102,0.9444444444444444,0.8,0.8823529411764706,0.5,-0.14444444444444438,-0.38235294117647056,0.2379084967320262,No observed duplicates only,Documented by adoption,Higher alignment,True
+mikeacjones/ironpath,skeletonlabs/skeleton,2025-12-21 00:38:52,18,1,18,1,0.0,103,,,,,,,,,,,False
+stolostron/multicluster-global-hub,sillsdev/fieldworks,2025-11-20 14:17:04,18,1,20,1,0.10008345855698275,104,0.9444444444444444,0.8,0.45,0.4,-0.14444444444444438,-0.04999999999999999,-0.09444444444444439,No observed duplicates only,Documented by adoption,Higher alignment,True
+tkontu/raappa,tbsten/compose-preview-lab,2026-01-11 08:30:39,18,1,19,1,0.05129329438755059,105,1.0,0.9444444444444444,0.8421052631578947,0.7272727272727273,-0.05555555555555558,-0.1148325358851674,0.05927698032961182,No observed duplicates only,Documented by adoption,Lower alignment,True
+tscircuit/cli,fxsml/gopipe,2026-01-23 03:20:35,18,1,18,1,0.0,106,0.7222222222222222,0.75,0.7777777777777778,0.7777777777777778,0.02777777777777779,0.0,0.02777777777777779,Shared content only,Not documented,Higher alignment,True
+bobfang1992/dag-executor,papauri/bank-nkhonde-website,2026-01-15 05:56:35,17,2,17,2,0.0,107,,,,,,,,,,,False
+remrama/worn,chayuto/panic-on-rails,2026-01-24 19:46:26,17,2,15,2,0.11778303565638337,108,,,,,,,,,,,False
+sw-campus/sw-campus-client,ucd-serg/ucd-serg.github.io,2026-01-18 12:28:05,17,1,18,1,0.054067221270275745,109,,,,,,,,,,,False
+webxr-jp/avatar-optimizer,stirling-tools/stirling-pdf,2026-01-10 04:52:26,17,1,15,1,0.11778303565638337,110,0.8235294117647058,1.0,0.6666666666666666,0.75,0.17647058823529416,0.08333333333333337,0.09313725490196079,No observed duplicates only,Documented by adoption,Lower alignment,True
+yusuke-suzuki/dotfiles,falkordb/falkordb-rs-next-gen,2026-01-30 06:14:21,17,1,17,1,0.0,111,1.0,1.0,0.8235294117647058,0.0,0.0,-0.8235294117647058,0.8235294117647058,No observed duplicates only,Documented by adoption,Lower alignment,True
+inernoro/prd_agent,takazudo/zudo-pd,2026-01-14 11:39:25,16,1,14,1,0.1251631429540061,112,0.8125,0.9230769230769231,0.6428571428571429,0.5,0.11057692307692313,-0.1428571428571429,0.25343406593406603,No observed duplicates only,Support start unknown,Lower alignment,True
+jamesprial/go-reddit-api-wrapper,actualbudget/actual,2025-11-09 03:46:14,16,3,11,2,1.0983066942682158,113,,,,,,,,,,,False
+jensens/ivoryvalley,misty-step/chrondle,2025-12-23 15:52:35,16,2,15,2,0.06062462181643502,114,0.875,1.0,0.6666666666666666,0.9,0.125,0.2333333333333334,-0.10833333333333339,Shared content only,Documented by adoption,Lower alignment,True
+lfglabs-dev/vibetracking.dev,louisburroughs/durion-positivity-backend,2026-01-11 15:25:09,16,1,15,1,0.06062462181643502,115,1.0,1.0,1.0,0.9714285714285714,0.0,-0.02857142857142858,0.02857142857142858,Shared content only,Documented by adoption,Lower alignment,True
+neogenz/pulpe,aigenna/portfolio-website,2026-01-30 14:34:45,16,1,16,1,0.0,116,,,,,,,,,,,False
+oikon48/cc-web-playground,csonic0926/stock_indicator,2025-11-01 04:01:11,16,1,14,1,0.1251631429540061,117,,,,,,,,,,,False
+qingqishi/shiqingqi.com,torryt/foos-and-friends,2025-10-19 14:06:41,16,1,17,1,0.05715841383994835,118,1.0,0.8,0.9411764705882353,1.0,-0.19999999999999996,0.05882352941176472,-0.2588235294117647,Mixed content,Documented by adoption,Higher alignment,True
+shavo007/langchain-anthropic-pdf-support,aura-historia/backend,2026-01-19 22:54:43,16,1,15,1,0.06062462181643502,119,1.0,1.0,1.0,0.8947368421052632,0.0,-0.10526315789473684,0.10526315789473684,Shared content only,Documented by adoption,Lower alignment,True
+voidzero-dev/vite-plus,mazze93/mazze-leczzare-blog,2026-01-23 02:22:34,16,1,16,1,0.0,120,0.9375,1.0,0.5625,0.8,0.0625,0.23750000000000004,-0.17500000000000004,Shared content only,Documented by adoption,Higher alignment,True
+aden-hive/hive,gnathonic/mokuro-reader,2026-01-28 22:04:08,15,1,15,1,0.0,121,0.4,0.0,0.5333333333333333,0.75,-0.4,0.21666666666666667,-0.6166666666666667,No observed duplicates only,Documented by adoption,Lower alignment,True
+attunehq/hurry,garaemon/devgo,2025-11-06 19:44:46,15,1,16,1,0.06062462181643502,122,,,,,,,,,,,False
+getsentry/sentry-docs,wmeints/promptyard,2026-01-13 21:25:08,15,2,12,2,0.2076393647782444,123,,,,,,,,,,,False
+jetbrains/ideavim,onpaj/anela.heblo,2025-10-24 16:41:01,15,1,14,1,0.06453852113757108,124,0.7333333333333333,0.5,0.9285714285714286,1.0,-0.23333333333333328,0.0714285714285714,-0.3047619047619047,Shared content only,Documented by adoption,Lower alignment,True
+progressions/shot-client-next,smartflow-systems/smartflowsite,2025-11-22 16:09:37,15,2,8,2,0.5753641449035616,125,0.9333333333333333,1.0,0.625,0.5,0.06666666666666665,-0.125,0.19166666666666665,Shared content only,Documented by adoption,Higher alignment,True
+coji/durably,ec-cube/ec-cube,2026-01-18 02:57:04,14,1,14,1,0.0,126,1.0,1.0,0.07142857142857142,0.5,0.0,0.4285714285714286,-0.4285714285714286,No observed duplicates only,Documented by adoption,Higher alignment,True
+liminalwarmth/stardewoutfitmanager,eyalpoly/amplify-excel-migrator,2026-01-01 21:07:22,14,1,12,1,0.14310084364067333,127,,,,,,,,,,,False
+owid/etl,destaquesgovbr/portal,2026-01-04 13:02:58,14,1,11,1,0.2231435513142097,128,,,,,,,,,,,False
+the-flip/flipfix,dynamods/dynamo,2026-01-29 01:31:40,14,1,14,1,0.0,129,1.0,1.0,0.5,0.3333333333333333,0.0,-0.16666666666666669,0.16666666666666669,Mixed content,Documented by adoption,Lower alignment,True
+zakisanbaiman/financial-planning-calculator,freeforcharity/ffc-cloudflare-automation,2026-01-05 13:28:42,14,1,13,1,0.06899287148695166,130,,,,,,,,,,,False
+ajwolfe18/ttracker,tip-global-health/eheza-app,2026-01-09 21:43:55,13,1,11,1,0.15415067982725805,131,1.0,0.875,0.2727272727272727,0.35294117647058826,-0.125,0.08021390374331555,-0.20521390374331555,No observed duplicates only,Documented by adoption,Higher alignment,True
+hal-shikinami/fragments,gniewkob/salonbw,2026-01-29 16:53:05,13,1,14,1,0.06899287148695166,132,,,,,,,,,,,False
+mesbahtanvir/ishkul,qltysh/qlty,2025-12-30 18:04:21,13,1,12,1,0.07410797215372167,133,1.0,1.0,0.5833333333333334,0.5,0.0,-0.08333333333333337,0.08333333333333337,Shared content only,Documented by adoption,Higher alignment,True
+paulbunker/habit-tracker,bsv-blockchain/teranode,2026-01-25 12:21:17,13,1,13,1,0.0,134,0.9230769230769231,1.0,0.7692307692307693,0.8333333333333334,0.07692307692307687,0.0641025641025641,0.012820512820512775,No observed duplicates only,Documented by adoption,Lower alignment,True
+sksat/agentdock,jg10545/bishop,2026-01-14 17:35:03,13,1,10,1,0.24116205681688774,135,1.0,0.9038461538461539,1.0,1.0,-0.09615384615384615,0.0,-0.09615384615384615,Shared content only,Documented by adoption,Lower alignment,True
+at2024/ala,intel/auto-round,2026-01-19 10:12:58,12,1,11,1,0.08004270767353638,136,0.8333333333333334,1.0,0.09090909090909091,0.4,0.16666666666666663,0.3090909090909091,-0.14242424242424245,No observed duplicates only,Documented by adoption,Lower alignment,True
+bottle-note/bottle-note-frontend,ucd-serg/serocalculator,2026-01-22 05:12:21,12,1,12,1,0.0,137,1.0,0.8571428571428571,0.4166666666666667,0.2857142857142857,-0.1428571428571429,-0.130952380952381,-0.011904761904761918,No observed duplicates only,Documented by adoption,Higher alignment,True
+canpok1/ai-feed,couchers-org/couchers,2025-12-20 13:14:35,12,1,12,1,0.0,138,1.0,0.8333333333333334,0.6666666666666666,1.0,-0.16666666666666663,0.33333333333333337,-0.5,Shared content only,Documented by adoption,Lower alignment,True
+dechiad1/portfolio-analytics,bakaphp/kanvas-ecosystem-api,2026-01-29 01:20:31,12,1,12,1,0.0,139,1.0,0.8,1.0,1.0,-0.19999999999999996,0.0,-0.19999999999999996,No observed duplicates only,Documented by adoption,Higher alignment,True
+dvdizon/francesanddavid,tkhduracell/iot-fetcher,2026-01-18 17:54:28,12,1,10,1,0.16705408466316607,140,0.9166666666666666,1.0,1.0,0.92,0.08333333333333337,-0.07999999999999996,0.16333333333333333,No observed duplicates only,Not documented,Lower alignment,True
+kateusz/gameengine,alkem-io/server,2025-11-28 19:08:05,12,2,12,2,0.0,141,,,,,,,,,,,False
+miketui/fm,wyattowalsh/proxywhirl,2025-11-14 05:45:13,12,2,8,2,0.3677247801253172,142,,,,,,,,,,,False
+rartzi/ragtriever,tanveerfb/dukesenior-tools-next,2026-01-28 04:26:35,12,1,12,1,0.0,143,0.9166666666666666,1.0,0.9166666666666666,1.0,0.08333333333333337,0.08333333333333337,0.0,No observed duplicates only,Not documented,Higher alignment,True
+tanujsutaria/vitalarc,zachtheyek/aetherscan,2026-01-28 02:17:48,12,1,13,1,0.07410797215372167,144,0.9166666666666666,0.9655172413793104,0.7692307692307693,0.8888888888888888,0.04885057471264376,0.11965811965811957,-0.07080754494547581,No observed duplicates only,Documented by adoption,Higher alignment,True
+tidemann/st44-home,microsoft/bc-bench,2025-12-23 23:39:54,12,1,12,1,0.0,145,1.0,0.9948453608247423,0.75,0.6666666666666666,-0.005154639175257714,-0.08333333333333337,0.07817869415807566,Shared content only,Documented by adoption,Higher alignment,True
+caterpillarsan/tftool,evanszymkowicz/new-portfolio,2026-01-10 10:53:41,11,1,8,1,0.2876820724517808,146,,,,,,,,,,,False
+ciandt-fulvio/synth-lab,arcadeai/arcade-mcp,2025-12-28 13:17:10,11,1,11,1,0.0,147,1.0,1.0,0.45454545454545453,0.1111111111111111,0.0,-0.3434343434343434,0.3434343434343434,Shared content only,Documented by adoption,Higher alignment,True
+delightful-ai/beads-rs,clerk/javascript,2026-01-26 19:04:57,11,2,9,2,0.18232155679395445,148,0.36363636363636365,1.0,0.8888888888888888,0.6,0.6363636363636364,-0.28888888888888886,0.9252525252525252,No observed duplicates only,Documented by adoption,Lower alignment,True
+gebadev/metrix,datatalksclub/course-management-platform,2026-01-19 12:50:38,11,1,9,1,0.18232155679395445,149,,,,,,,,,,,False
+jonathanharford/verne_durand,hardisgroupcom/sfdx-hardis,2026-01-18 23:08:26,11,1,9,1,0.18232155679395445,150,0.2727272727272727,0.0,0.7777777777777778,0.75,-0.2727272727272727,-0.02777777777777779,-0.24494949494949492,Shared content only,Not documented,Higher alignment,True
+kdaquila/kdaquila-structure-lint,aceteam-ai/workflow-engine,2026-01-17 23:53:54,11,1,8,1,0.2876820724517808,151,1.0,1.0,1.0,0.7272727272727273,0.0,-0.2727272727272727,0.2727272727272727,No observed duplicates only,Documented by adoption,Higher alignment,True
+keboola/osiris,ava-labs/firewood,2025-11-07 23:51:23,11,1,11,1,0.0,152,0.9090909090909091,1.0,0.45454545454545453,0.5,0.09090909090909094,0.04545454545454547,0.04545454545454547,No observed duplicates only,Documented by adoption,Higher alignment,True
+khaphanspace/gonhanh.org,ar-io/ar-io-node,2025-12-22 16:06:27,11,1,9,1,0.18232155679395445,153,0.6363636363636364,0.0,0.8888888888888888,1.0,-0.6363636363636364,0.11111111111111116,-0.7474747474747475,Shared content only,Documented by adoption,Lower alignment,True
+neynarxyz/ui,anomfin/anomchatbot,2026-01-19 00:14:05,11,1,8,1,0.2876820724517808,154,,,,,,,,,,,False
+pertrai1/coding-challenges,nebulastream/nautilus,2025-12-27 03:05:04,11,3,11,2,0.75,155,,,,,,,,,,,False
+woodrowpearson/mids-hero-web,f88/mugen-protopedia,2025-11-14 00:40:46,11,1,11,1,0.0,156,1.0,1.0,0.8181818181818182,0.0,0.0,-0.8181818181818182,0.8181818181818182,Shared content only,Documented by adoption,Higher alignment,True
+adewale/keyboardia,microsoft/typeagent,2026-01-22 23:16:16,10,1,10,1,0.0,157,,,,,,,,,,,False
+bodrovphone/taskbridge,wp-media/wp-rocket,2025-10-30 20:18:31,10,1,10,1,0.0,158,,,,,,,,,,,False
+brianlovin/hn-cli,mrviduus/textstack,2026-01-26 04:39:26,10,1,10,1,0.0,159,1.0,1.0,1.0,1.0,0.0,0.0,0.0,Shared content only,Documented by adoption,Lower alignment,True
+cliangdev/specflux-backend,apache/struts,2025-12-11 14:11:02,10,1,10,1,0.0,160,1.0,0.9615384615384616,0.8,1.0,-0.038461538461538436,0.19999999999999996,-0.2384615384615384,Shared content only,Documented by adoption,Higher alignment,True
+cockroachdb/cockroach,layer5io/layer5,2025-12-08 17:01:00,10,1,10,1,0.0,161,0.7,0.8421052631578947,0.6,0.0,0.14210526315789473,-0.6,0.7421052631578947,Shared content only,Documented by adoption,Higher alignment,True
+cognoco/nx-monorepo,jotpalch/scholarship-system,2025-10-28 16:27:05,10,1,10,1,0.0,162,0.8,0.625,1.0,1.0,-0.17500000000000004,0.0,-0.17500000000000004,Shared content only,Documented by adoption,Higher alignment,True
+duyet/duyetbot-agent,taylorleese/mcp-toolz,2026-01-05 19:53:49,10,1,9,1,0.09531017980432477,163,,,,,,,,,,,False
+finos/morphir,tw93/mole,2026-01-06 01:05:53,10,2,9,2,0.09531017980432477,164,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Shared content only,Documented by adoption,Higher alignment,True
+linkml/valuesets,mr-quin/danmaku-anywhere,2025-12-22 15:12:55,10,2,8,2,0.2006706954621511,165,0.7,1.0,0.75,0.0,0.30000000000000004,-0.75,1.05,Shared content only,Documented by adoption,Higher alignment,True
+markus41/nabip-association-ma,space-launch-now/spacelaunchnow-kmp,2025-11-15 10:36:28,10,1,10,1,0.0,166,0.6,0.2222222222222222,1.0,1.0,-0.37777777777777777,0.0,-0.37777777777777777,No observed duplicates only,Not documented,Higher alignment,True
+mjanv/premiere-ecoute,hata-junnosuke/runmates,2025-10-28 20:38:54,10,1,11,1,0.08701137698962969,167,,,,,,,,,,,False
+nibsbin/quillmark-web-utils,kornia/kornia-rs,2025-11-15 02:40:16,10,1,11,1,0.08701137698962969,168,0.7,0.5,0.45454545454545453,0.42857142857142855,-0.19999999999999996,-0.025974025974025983,-0.17402597402597397,Shared content only,Not documented,Lower alignment,True
+shidax-corp/kintone-authenticator,kyh/loremllm,2025-10-17 03:42:25,10,2,14,2,0.3101549283038394,169,,,,,,,,,,,False
+szymdzum/browser-debugger-cli,getmorebrain/bitmark-parser-generator,2025-11-08 17:15:26,10,1,11,1,0.08701137698962969,170,1.0,1.0,0.8181818181818182,0.75,0.0,-0.06818181818181823,0.06818181818181823,No observed duplicates only,Documented by adoption,Higher alignment,True
+tomodo1773/investlogix,markafitzgerald1/cribbage-trainer,2026-01-21 13:14:04,10,3,8,3,0.2006706954621511,171,,,,,,,,,,,False
+topstolenname/agisa_sac,sidprasad/spytial-core,2026-01-11 11:33:00,10,5,8,2,2.450670695462151,172,,,,,,,,,,,False
+ukgovernmentbeis/inspect_evals,hagevvashi-info/hagevvashi.info-dev-hub,2026-01-15 00:02:24,10,1,8,1,0.2006706954621511,173,,,,,,,,,,,False
+2389-research/ourocodus,ufomiao/zcf,2025-10-28 16:04:51,9,2,6,2,0.35667494393873267,174,,,,,,,,,,,False
+ajmartin94/cookingassistant,e-stpierre/agentic-forge,2026-01-23 20:54:37,9,1,9,1,0.0,175,0.3333333333333333,0.8947368421052632,0.4444444444444444,0.9,0.5614035087719298,0.4555555555555556,0.10584795321637419,No observed duplicates only,Documented by adoption,Lower alignment,True
+dotcms/core,myrjola/petrapp,2025-11-03 18:31:41,9,1,9,1,0.0,176,,,,,,,,,,,False
+egeozcan/mahresources,ray05202006/all-platform-post,2026-01-23 18:24:00,9,2,8,2,0.10536051565782634,177,,,,,,,,,,,False
+elastic/docs-builder,tempoxyz/tempo-apps,2026-01-23 16:46:13,9,2,8,2,0.10536051565782634,178,,,,,,,,,,,False
+galando/piv-speckit,haterade22/lotraom,2026-01-14 21:15:12,9,1,8,1,0.10536051565782634,179,1.0,1.0,1.0,0.0,0.0,-1.0,1.0,No observed duplicates only,Documented by adoption,Lower alignment,True
+hughhan1/rtest,camunda/camunda-docs,2026-01-03 18:37:32,9,1,7,1,0.22314355131421015,180,0.8888888888888888,1.0,0.42857142857142855,0.0,0.11111111111111116,-0.42857142857142855,0.5396825396825398,No observed duplicates only,Documented by adoption,Lower alignment,True
+mirakui/ghview,kkohtaka/autonyan,2026-01-11 05:08:53,9,1,8,1,0.10536051565782634,181,,,,,,,,,,,False
+oaustegard/oaustegard.github.io,cognigy/webchat,2025-11-29 21:32:22,9,1,9,1,0.0,182,,,,,,,,,,,False
+ryo-yama55/ramen_saver,doggy8088/better-rm,2026-01-01 14:44:23,9,1,7,1,0.22314355131421015,183,,,,,,,,,,,False
+sbstndb/subsetix_kokkos,fjcanyue/comic_downloader,2026-01-23 14:09:24,9,1,9,1,0.0,184,,,,,,,,,,,False
+skovhus/styled-components-to-stylex-codemod,thevarun/vt-saas-template,2026-01-20 21:59:01,9,3,12,2,1.0123642644674908,185,0.5555555555555556,0.8210526315789474,1.0,1.0,0.2654970760233918,0.0,0.2654970760233918,No observed duplicates only,Documented by adoption,Lower alignment,True
+slavamelanko/smela-back,redhat-openshift-ecosystem/opct,2025-12-11 12:48:32,9,1,9,1,0.0,186,,,,,,,,,,,False
+tradingstrategy-ai/frontend,damus-io/notedeck,2026-01-08 00:26:21,9,1,7,1,0.22314355131421015,187,0.7777777777777778,1.0,0.14285714285714285,0.42857142857142855,0.2222222222222222,0.2857142857142857,-0.06349206349206349,Shared content only,Documented by adoption,Lower alignment,True
+wgpsec/redc,crowi/crowi,2026-01-23 19:17:05,9,1,8,1,0.10536051565782634,188,0.7777777777777778,0.0,1.0,0.3333333333333333,-0.7777777777777778,-0.6666666666666667,-0.11111111111111105,No observed duplicates only,Documented by adoption,Higher alignment,True
+anysoftkeyboard/anysoftkeyboard,sswconsulting/ssw.yakshaver.desktop,2025-12-26 03:09:16,8,2,7,2,0.11778303565638382,189,0.875,0.21428571428571427,0.2857142857142857,0.6666666666666666,-0.6607142857142857,0.38095238095238093,-1.0416666666666665,Shared content only,Documented by adoption,Lower alignment,True
+anysoftkeyboard/janus,maaxyz/maaframework,2025-12-18 14:07:28,8,1,8,1,0.0,190,0.875,0.6521739130434783,0.5,1.0,-0.22282608695652173,0.5,-0.7228260869565217,Shared content only,Not documented,Lower alignment,True
+bcollazo/deckgym-core,namespacelabs/foundation,2025-10-17 13:12:52,8,1,8,1,0.0,191,0.875,0.8571428571428571,0.875,1.0,-0.017857142857142905,0.125,-0.1428571428571429,No observed duplicates only,Documented by adoption,Higher alignment,True
+bvv-1/gene-structure,jodavis/adaptiveremote,2026-01-13 11:49:22,8,1,7,1,0.11778303565638382,192,1.0,1.0,1.0,0.8333333333333334,0.0,-0.16666666666666663,0.16666666666666663,Shared content only,Documented by adoption,Higher alignment,True
+codekiln/langstar,beskardev/nexus-rpg,2025-10-26 17:26:56,8,1,8,1,0.0,193,1.0,0.9024390243902439,0.875,0.75,-0.09756097560975607,-0.125,0.027439024390243927,Shared content only,Documented by adoption,Higher alignment,True
+enufacas/hddl,dayfine/trading,2026-01-07 04:10:14,8,1,7,1,0.11778303565638382,194,,,,,,,,,,,False
+fumiya-kume/felangkit,chrishadley1983/hadley-bricks-inventory-management,2026-01-26 04:27:06,8,1,8,1,0.0,195,1.0,0.8333333333333334,1.0,0.9942196531791907,-0.16666666666666663,-0.005780346820809301,-0.16088631984585733,No observed duplicates only,Documented by adoption,Lower alignment,True
+igorganapolsky/random-timer,chalk-lab/mooncake.jl,2026-01-22 15:25:43,8,3,6,2,1.0013144282809063,196,,,,,,,,,,,False
+konveyor-ecosystem/analyzer-rule-generator,amkkr/lazy-note,2025-11-11 12:19:42,8,1,7,1,0.11778303565638382,197,1.0,1.0,1.0,1.0,0.0,0.0,0.0,Shared content only,Documented by adoption,Higher alignment,True
+kota-shidara/ktor-task-app,kk6/mcpax,2026-01-29 00:28:58,8,1,8,1,0.0,198,,,,,,,,,,,False
+manifoldmarkets/mox-sf,nobishino/midiwav,2026-01-21 04:49:25,8,1,8,1,0.0,199,,,,,,,,,,,False
+noppomario/uti,arthurfiorette/prisma-json-types-generator,2025-12-31 06:11:52,8,1,7,1,0.11778303565638382,200,,,,,,,,,,,False
+r0man/beads.el,damacus/med-tracker,2025-11-06 12:02:09,8,1,8,1,0.0,201,,,,,,,,,,,False
+rafek1241/ai-copy-paste,magnusakselvoll/photo-booth-take-two,2026-01-29 21:19:27,8,1,8,1,0.0,202,,,,,,,,,,,False
+sajid-khan-afridi/hackathon1_repeat,clates/agentic-curriculum,2025-12-17 04:18:48,8,1,8,1,0.0,203,,,,,,,,,,,False
+themarstonconnell/randomloot,ctxzz/dotfiles,2026-01-21 22:12:03,8,1,8,1,0.0,204,1.0,0.0,1.0,1.0,-1.0,0.0,-1.0,Shared content only,Documented by adoption,Lower alignment,True
+trailofbits/dropkit,johnpooch/diplicity-react,2026-01-30 02:50:14,8,1,8,1,0.0,205,0.875,1.0,1.0,1.0,0.125,0.0,0.125,No observed duplicates only,Documented by adoption,Lower alignment,True
+wham/github-brain,thavarshan/fetch-php,2025-12-24 08:11:20,8,1,8,1,0.0,206,,,,,,,,,,,False
+bcl1713/chorequest,goreleaser/goreleaser,2025-11-07 14:43:46,7,1,7,1,0.0,207,1.0,0.5,0.42857142857142855,1.0,-0.5,0.5714285714285714,-1.0714285714285714,Shared content only,Documented by adoption,Lower alignment,True
+beijaflor/gen-ai-journal,bamr87/it-journey,2025-12-27 02:05:19,7,1,7,1,0.0,208,,,,,,,,,,,False
+cdilga/multiplayer-racer,jflo21/generate-weekly-pdfs-dsr-resiliency,2026-01-01 12:38:54,7,1,7,1,0.0,209,1.0,0.5,0.14285714285714285,0.3333333333333333,-0.5,0.19047619047619047,-0.6904761904761905,Shared content only,Documented by adoption,Lower alignment,True
+costiash/cognivagent,8beeeaaat/touchdesigner-mcp,2025-12-13 15:03:21,7,1,7,1,0.0,210,,,,,,,,,,,False
+cryfs/cryfs,gleanwork/glean-developer-site,2025-12-25 13:38:18,7,2,5,2,0.2876820724517808,211,0.42857142857142855,1.0,0.8,1.0,0.5714285714285714,0.19999999999999996,0.37142857142857144,Shared content only,Documented by adoption,Higher alignment,True
+devonjones/cortex-utils,dhis2/dhis2-android-capture-app,2025-12-18 21:51:25,7,1,7,1,0.0,212,,,,,,,,,,,False
+eco2-team/frontend,nexters/moa,2026-01-19 18:54:26,7,1,7,1,0.0,213,1.0,1.0,1.0,1.0,0.0,0.0,0.0,Shared content only,Documented by adoption,Higher alignment,True
+ecto/muni,wesso80/marketscannerpros,2026-01-05 16:24:32,7,1,7,1,0.0,214,,,,,,,,,,,False
+growilabs/growi,foundersandcoders/iris,2026-01-23 12:40:10,7,1,7,1,0.0,215,0.7142857142857143,0.7142857142857143,1.0,0.9285714285714286,0.0,-0.0714285714285714,0.0714285714285714,Mixed content,Not documented,Higher alignment,True
+jlevy/markform,pix3dev/pix3,2026-01-19 08:35:39,7,1,7,1,0.0,216,,,,,,,,,,,False
+korosuke613/homepage-2nd,semaphoreui/semaphore,2025-12-24 06:56:58,7,2,6,2,0.13353139262452252,217,,,,,,,,,,,False
+lowdefy/lowdefy,gingergraham/bash-logger,2026-01-28 07:04:48,7,1,7,1,0.0,218,0.7142857142857143,1.0,0.8571428571428571,1.0,0.2857142857142857,0.1428571428571429,0.1428571428571428,No observed duplicates only,Documented by adoption,Higher alignment,True
+narrowstacks/dorkroom,supabase/supabase-swift,2025-11-19 11:28:49,7,2,6,2,0.13353139262452252,219,0.7142857142857143,0.0,0.6666666666666666,0.5,-0.7142857142857143,-0.16666666666666663,-0.5476190476190477,Shared content only,Documented by adoption,Lower alignment,True
+navikt/melosys-e2e-tests,narumiruna/kabigon,2026-01-17 11:34:00,7,2,5,2,0.2876820724517808,220,,,,,,,,,,,False
+osoleve/the-fold,ornlneutronimaging/ibeatles,2026-01-15 16:02:56,7,2,6,2,0.13353139262452252,221,,,,,,,,,,,False
+powerfulmoves/pmoves-tokenism-multi,tensor4all/omeinsum-rs,2026-01-26 18:29:27,7,2,7,2,0.0,222,0.5714285714285714,0.7272727272727273,1.0,0.7142857142857143,0.1558441558441559,-0.2857142857142857,0.4415584415584416,No observed duplicates only,Documented by adoption,Higher alignment,True
+shawn-sandy/astro-basics,intel/perfspect,2025-11-08 22:04:03,7,1,7,1,0.0,223,1.0,1.0,0.5714285714285714,1.0,0.0,0.4285714285714286,-0.4285714285714286,Shared content only,Documented by adoption,Lower alignment,True
+tony363/superclaude,mattgodbolt/jsbeeb,2025-12-18 07:02:28,7,1,7,1,0.0,224,,,,,,,,,,,False
+abuklea/prompthub,cuioss/cui-http,2025-11-06 09:43:37,6,1,6,1,0.0,225,,,,,,,,,,,False
+afettah/git-coupling-analyzer,microsoft/agent365-samples,2026-01-29 02:51:01,6,1,6,1,0.0,226,,,,,,,,,,,False
+aztecprotocol/aztec-packages,cbcoutinho/nextcloud-mcp-server,2025-12-23 18:38:26,6,1,6,1,0.0,227,0.8333333333333334,0.8235294117647058,0.8333333333333334,1.0,-0.009803921568627527,0.16666666666666663,-0.17647058823529416,Shared content only,Documented by adoption,Lower alignment,True
+billybbuffum/budget,andbible/and-bible,2025-10-31 19:20:04,6,1,6,1,0.0,228,,,,,,,,,,,False
+citypaul/.dotfiles,devnull03/qrate,2025-12-10 21:42:48,6,1,6,1,0.0,229,,,,,,,,,,,False
+ereferen/rustfeed,adamflagg/kindred,2026-01-15 11:59:54,6,1,6,1,0.0,230,,,,,,,,,,,False
+ericfitz/tmi-ux,amd/gaia,2026-01-26 15:15:38,6,1,6,1,0.0,231,1.0,0.0,1.0,0.875,-1.0,-0.125,-0.875,No observed duplicates only,Documented by adoption,Lower alignment,True
+float-ritual-stack/floatctl-rs,reonyanarticle/scryfall-mcp,2025-11-01 13:51:55,6,1,6,1,0.0,232,,,,,,,,,,,False
+fuzzy31u/yukamiya.me,mpyw/suve,2026-01-03 00:18:14,6,1,6,1,0.0,233,1.0,1.0,0.6666666666666666,0.9375,0.0,0.27083333333333337,-0.27083333333333337,No observed duplicates only,Documented by adoption,Higher alignment,True
+joecotellese/rpggame,anselmoo/tanabesugano,2025-11-20 20:06:08,6,1,6,1,0.0,234,,,,,,,,,,,False
+johnhenry/awesome-ai-tools,baslie/baslie.github.io,2025-11-04 16:12:15,6,1,5,1,0.15415067982725827,235,,,,,,,,,,,False
+jum-matsukuma/my_template_repo,prebish/prebish.github.io,2026-01-26 22:08:36,6,1,6,1,0.0,236,1.0,1.0,1.0,1.0,0.0,0.0,0.0,No observed duplicates only,Documented by adoption,Higher alignment,True
+k8s-lynq/lynq,vishalsachdev/makerlab,2025-11-26 03:52:36,6,2,6,2,0.0,237,,,,,,,,,,,False
+korosuke613/mynewshq,dimagi/open-chat-studio,2026-01-24 08:24:36,6,2,6,2,0.0,238,1.0,0.8571428571428571,0.8333333333333334,0.7560975609756098,-0.1428571428571429,-0.07723577235772361,-0.0656213704994193,No observed duplicates only,Documented by adoption,Higher alignment,True
+leonardofu/live-broadcast-dubbing,infonl/dimpact-zaakafhandelcomponent,2025-12-30 16:42:46,6,1,6,1,0.0,239,1.0,1.0,0.8333333333333334,0.0,0.0,-0.8333333333333334,0.8333333333333334,Shared content only,Documented by adoption,Lower alignment,True
+mckinsey/agents-at-scale-ark,rocm/amdmigraphx,2025-12-21 17:04:09,6,2,5,2,0.15415067982725827,240,0.6666666666666666,0.6666666666666666,0.2,0.0,0.0,-0.2,0.2,No observed duplicates only,Documented by adoption,Lower alignment,True
+msalganik/sports-poetry-demo,workleap/wl-hopper,2025-11-04 02:34:47,6,1,6,1,0.0,241,1.0,1.0,1.0,1.0,0.0,0.0,0.0,Shared content only,Documented by adoption,Higher alignment,True
+owid/owid-grapher,devantler-tech/reusable-workflows,2026-01-16 10:20:58,6,1,6,1,0.0,242,,,,,,,,,,,False
+richertunes/lidarr.plugin.common,khaledgarbaya/personal-website,2025-11-28 21:43:37,6,1,6,1,0.0,243,,,,,,,,,,,False
+seconds-0/claude-code-web-cli,phainestai/mimir,2026-01-03 06:43:42,6,1,6,1,0.0,244,,,,,,,,,,,False
+seqeralabs/docs,lksnext-ai-lab/ai-core-tools,2026-01-30 15:44:48,6,2,6,2,0.0,245,0.8333333333333334,0.875,0.16666666666666666,1.0,0.04166666666666663,0.8333333333333334,-0.7916666666666667,No observed duplicates only,Documented by adoption,Higher alignment,True
+shiroinock/darts-score-trainer,spearwolf/twopoint5d,2025-11-28 14:56:27,6,1,6,1,0.0,246,,,,,,,,,,,False
+slavamelanko/smela-front,jigneshkarnik/stichtingwebsite,2026-01-06 15:34:56,6,1,6,1,0.0,247,,,,,,,,,,,False
+swyp-web-11-team-4/airoad-backend,linuxfoundation/lfx-v2-committee-service,2025-12-16 02:46:35,6,1,6,1,0.0,248,,,,,,,,,,,False
+szymdzum/kumak-dev,zaba505/infra,2025-11-27 21:12:40,6,1,6,1,0.0,249,,,,,,,,,,,False
+bitflight-devops/github-action-jira-transition-manager,ayutaz/piper-plus,2026-01-24 04:09:56,5,1,5,1,0.0,250,0.4,0.75,1.0,1.0,0.35,0.0,0.35,No observed duplicates only,Documented by adoption,Lower alignment,True
+caryden/ncssm-hu4010,fedor-k/freelanly2,2026-01-25 04:31:42,5,1,5,1,0.0,251,,,,,,,,,,,False
+getstackit/stackit,anonabento/bentosite,2026-01-27 05:06:30,5,1,5,1,0.0,252,,,,,,,,,,,False
+gilad-rubin/hypergraph,joshsmithxrm/ppds-docs,2026-01-25 07:07:11,5,1,5,1,0.0,253,,,,,,,,,,,False
+human-centric-engineering/sunrise,0xjacky/nginx-ui,2025-12-23 14:49:11,5,1,5,1,0.0,254,,,,,,,,,,,False
+hyperlane-xyz/hyperlane-explorer,aadnesd/betting-tracker,2026-01-30 14:25:36,5,1,5,1,0.0,255,,,,,,,,,,,False
+ikatechis/claude-agentic-mastery,davidhozic/mujoco-rs,2025-12-28 10:04:10,5,1,5,1,0.0,256,,,,,,,,,,,False
+jeffdt/homskillet-discography,deeplink-org/dlinfer,2026-01-02 17:06:43,5,1,5,1,0.0,257,,,,,,,,,,,False
+joshribakoff/leetdreamer,kancraft/kancollewidget,2026-01-24 03:14:39,5,1,5,1,0.0,258,,,,,,,,,,,False
+joshribakoff/portfolio,bonitasoft-presales/presales_workflows,2025-12-14 02:25:57,5,1,5,1,0.0,259,,,,,,,,,,,False
+kenshin579/tutorials-go,biodatageeks/polars-bio,2026-01-30 22:31:18,5,1,5,1,0.0,260,1.0,1.0,1.0,0.9473684210526315,0.0,-0.052631578947368474,0.052631578947368474,No observed duplicates only,Documented by adoption,Higher alignment,True
+kohljary/project-cass,chlbri/app-solid,2025-12-24 06:19:53,5,1,5,1,0.0,261,,,,,,,,,,,False
+laurigates/mcu-tinkering-lab,duneanalytics/spellbook,2025-11-23 10:46:26,5,1,5,1,0.0,262,1.0,1.0,0.8,1.0,0.0,0.19999999999999996,-0.19999999999999996,Mixed content,Documented by adoption,Higher alignment,True
+magarcia/magarcia.io,manashmandal/glance,2026-01-24 16:49:01,5,1,5,1,0.0,263,,,,,,,,,,,False
+monarch-initiative/mondo,blueset/trmnl-recipes,2025-10-27 17:58:12,5,1,5,1,0.0,264,,,,,,,,,,,False
+no-trade-no-life/yuan,refractionpoint/usp-adapters,2025-11-19 05:44:48,5,1,6,1,0.15415067982725827,265,,,,,,,,,,,False
+r0man/doggy-dogs-car-dog-alarm,eebrami/poverty-project,2025-11-02 13:40:16,5,1,5,1,0.0,266,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Mixed content,Documented by adoption,Higher alignment,True
+raunlo/checklistapplication,masorange/titan-cli,2025-12-25 14:52:11,5,1,5,1,0.0,267,0.8,0.0,0.0,0.0,-0.8,0.0,-0.8,No observed duplicates only,Documented by adoption,Higher alignment,True
+reown-com/yttrium,cortexapps/cli,2026-01-15 12:00:24,5,1,5,1,0.0,268,0.8,0.7894736842105263,0.8,1.0,-0.010526315789473717,0.19999999999999996,-0.21052631578947367,No observed duplicates only,Documented by adoption,Higher alignment,True
+rmsantista/vibecforms,friendsofredaxo/mblock,2025-11-01 14:28:14,5,1,5,1,0.0,269,1.0,0.5,0.8,0.0,-0.5,-0.8,0.30000000000000004,Shared content only,Documented by adoption,Higher alignment,True
+shomrkm/shochan_ai,markwhiting/whiting.me,2026-01-24 08:25:37,5,1,5,1,0.0,270,,,,,,,,,,,False
+takazudo/takazudomodular-manuals,altimateai/vscode-dbt-power-user,2026-01-03 11:36:19,5,1,5,1,0.0,271,1.0,0.8666666666666667,0.6,0.3333333333333333,-0.1333333333333333,-0.26666666666666666,0.13333333333333336,No observed duplicates only,Documented by adoption,Higher alignment,True
+teggr/spring-ai-copilot-clone,lokie-ree/creative-lab,2026-01-25 14:37:25,5,1,5,1,0.0,272,0.8,1.0,0.8,1.0,0.19999999999999996,0.19999999999999996,0.0,No observed duplicates only,Not documented,Lower alignment,True
+tsuchiya2/evaluator-driven-agent-flow,martinzikmund/mzikmund-toolkit,2025-12-21 15:19:52,5,1,5,1,0.0,273,,,,,,,,,,,False
+ushironoko/octorus,boxp/lolice,2026-01-21 07:34:37,5,1,5,1,0.0,274,1.0,0.9130434782608695,1.0,0.9866666666666667,-0.08695652173913049,-0.013333333333333308,-0.07362318840579718,No observed duplicates only,Documented by adoption,Higher alignment,True
+wado-lang/wado,dora-rs/dora,2026-01-28 04:06:24,5,1,5,1,0.0,275,0.8,0.5,0.8,0.3333333333333333,-0.30000000000000004,-0.46666666666666673,0.16666666666666669,No observed duplicates only,Documented by adoption,Higher alignment,True
+wineast/agent0,cinimody/eidotter,2026-01-08 16:09:49,5,1,5,1,0.0,276,1.0,0.9354838709677419,1.0,0.9666666666666667,-0.06451612903225812,-0.033333333333333326,-0.031182795698924792,No observed duplicates only,Documented by adoption,Higher alignment,True
+autumnsgrove/grovescout,ambient-code/reference,2026-01-22 22:47:36,4,1,4,1,0.0,277,,,,,,,,,,,False
+block/elasticgraph,atomic-testing/atomic-testing,2026-01-23 05:30:26,4,1,4,1,0.0,278,,,,,,,,,,,False
+commercetools/nimbus,kgateway-dev/kgateway,2026-01-14 13:24:27,4,1,4,1,0.0,279,1.0,0.8888888888888888,0.5,1.0,-0.11111111111111116,0.5,-0.6111111111111112,Mixed content,Documented by adoption,Higher alignment,True
+idea-on-action/idea-on-action,aiidateam/aiida-core,2025-12-19 01:18:26,4,1,4,1,0.0,280,,,,,,,,,,,False
+jasrags/shadowmaster,boxlite-ai/boxlite,2026-01-06 06:23:46,4,1,4,1,0.0,281,,,,,,,,,,,False
+kys0213/agentos,arc42/quality.arc42.org-site,2025-10-21 00:26:43,4,2,4,1,0.75,282,,,,,,,,,,,False
+lukacf/mcp-the-force,akarl16/cycling-workouts,2025-12-12 16:03:35,4,1,4,1,0.0,283,,,,,,,,,,,False
+reown-com/reown-kotlin,linuxfoundation/lfx-v2-fga-sync,2026-01-15 09:19:51,4,1,4,1,0.0,284,,,,,,,,,,,False
+saleor/apps,b-editor/beutl,2026-01-27 13:25:15,4,1,4,1,0.0,285,,,,,,,,,,,False
+stharrold/stharrold-templates,1st8/planning_poker,2025-11-20 16:33:40,4,1,4,1,0.0,286,0.75,0.9672131147540983,0.75,1.0,0.21721311475409832,0.25,-0.032786885245901676,No observed duplicates only,Documented by adoption,Higher alignment,True
+synapticore-io/marimo-flow,rocm/rocm-systems,2026-01-24 16:09:24,4,2,4,2,0.0,287,,,,,,,,,,,False
+tkhongsap/llama-index-rag-pipeline,swingerman/lovelace-fluid-level-background-card,2025-10-26 07:51:58,4,2,3,2,0.2231435513142097,288,,,,,,,,,,,False
+boneskull/bupkis,0xmiden/protocol,2025-11-13 21:41:32,3,2,3,2,0.0,289,,,,,,,,,,,False
+branchbox/branchbox,cbioportal/cbioportal,2026-01-13 02:39:26,3,1,3,1,0.0,290,1.0,1.0,0.0,0.0,0.0,0.0,0.0,No observed duplicates only,Documented by adoption,Higher alignment,True
+coollabsio/coolify-docs,apache/struts-site,2025-12-28 01:16:05,3,1,3,1,0.0,291,,,,,,,,,,,False
+dailydotdev/apps,gordonbeeming/xylem,2026-01-04 15:44:40,3,1,3,1,0.0,292,,,,,,,,,,,False
+deepily/lupin,chris-nowicki/chrisnowicki.dev,2026-01-29 03:03:46,3,1,3,1,0.0,293,1.0,1.0,1.0,0.9090909090909091,0.0,-0.09090909090909094,0.09090909090909094,No observed duplicates only,Documented by adoption,Higher alignment,True
+gatewaybuddy/forgekeeper,ianshank/strategos-mcts,2025-11-21 15:25:17,3,2,4,2,0.2231435513142097,294,,,,,,,,,,,False
+giselles-ai/giselle,delwing/arkadia-web-client-extension,2026-01-15 08:06:34,3,1,3,1,0.0,295,,,,,,,,,,,False
+gulbanana/gg,ghinks/review-classification,2026-01-16 23:29:55,3,1,3,1,0.0,296,,,,,,,,,,,False
+illumination-k/pubmed-client,alisonjenkins/nix-config,2025-11-15 18:27:54,3,1,3,1,0.0,297,,,,,,,,,,,False
+jnealey-godaddy/designsetgo,demokratis-ch/structedit,2026-01-30 02:28:51,3,1,3,1,0.0,298,,,,,,,,,,,False
+k2bg-technology/k2bg-branding,arsindelve/zorkai,2025-12-11 11:38:27,3,1,3,1,0.0,299,,,,,,,,,,,False
+nikhillinit/updog_restore,cognigy/chat-components,2025-12-12 10:16:13,3,1,3,1,0.0,300,,,,,,,,,,,False
+projecteuropa/europa,linuxfoundation/lfx-v2-mockdata,2026-01-05 08:00:49,3,1,3,1,0.0,301,1.0,0.5,0.3333333333333333,1.0,-0.5,0.6666666666666667,-1.1666666666666667,Shared content only,Documented by adoption,Lower alignment,True
+saki0000/collab-stream,openops-cloud/openops,2026-01-12 09:50:18,3,1,3,1,0.0,302,,,,,,,,,,,False
+tettuan/breakdown,linuxfoundation/lfx-v2-project-service,2026-01-06 15:38:40,3,1,3,1,0.0,303,1.0,0.75,0.3333333333333333,0.6666666666666666,-0.25,0.3333333333333333,-0.5833333333333333,No observed duplicates only,Documented by adoption,Higher alignment,True
+ahmadabdalla/agents,anchorageoss/visualsign-parser,2026-01-12 19:02:54,2,1,2,1,0.0,304,1.0,0.6666666666666666,0.0,0.8888888888888888,-0.33333333333333337,0.8888888888888888,-1.2222222222222223,No observed duplicates only,Documented by adoption,Lower alignment,True
+akeshr/autifyme,nakajima-foundation/ownplate,2025-11-30 07:09:02,2,2,2,2,0.0,305,,,,,,,,,,,False
+alex-ilgayev/mcpspy,aptos-labs/aptos-ts-sdk,2025-11-29 07:00:49,2,1,2,1,0.0,306,,,,,,,,,,,False
+blockchain-web-services/bws-website-front,azukiazusa1/sapper-blog-app,2025-11-01 19:56:06,2,1,2,1,0.0,307,,,,,,,,,,,False
+bumgeunsong/daily-writing-friends,chsami/microbot,2026-01-06 13:14:01,2,1,2,1,0.0,308,,,,,,,,,,,False
+dust-tt/dust,d-morrison/rwicc,2026-01-07 11:57:45,2,1,2,1,0.0,309,,,,,,,,,,,False
+ednahq/learnflow,digitalgroundgame/pragmatic-papers,2025-11-13 02:05:29,2,1,2,1,0.0,310,,,,,,,,,,,False
+el-feo/content_processing,budibase/budibase,2025-11-06 04:27:02,2,1,2,1,0.0,311,,,,,,,,,,,False
+expensify/app,jthiller/heliumtools,2026-01-10 00:31:10,2,2,2,2,0.0,312,0.5,0.0,1.0,1.0,-0.5,0.0,-0.5,No observed duplicates only,Documented by adoption,Higher alignment,True
+gano-alpha/gano-alpha,chronoll/homupe,2026-01-12 18:00:29,2,1,2,1,0.0,313,,,,,,,,,,,False
+hulkeinstein/dvs-template01,datatalksclub/faq,2026-01-23 08:03:05,2,1,2,1,0.0,314,,,,,,,,,,,False
+juanpi2024/fotos-parral,dogkeeper886/wpa-mcp,2026-01-26 03:27:40,2,1,2,1,0.0,315,,,,,,,,,,,False
+mkizka/subscope,andreabozzo/dataprof,2025-12-24 11:50:18,2,1,2,1,0.0,316,,,,,,,,,,,False
+multiqc/multiqc,benjr70/smart-smoker-v2,2025-10-30 09:14:42,2,1,2,1,0.0,317,,,,,,,,,,,False
+nandemo-ya/kecs,boldgrid/w3-total-cache,2025-12-18 15:29:31,2,1,2,1,0.0,318,,,,,,,,,,,False
+ncdcdev/sharepoint-docs-mcp,databricks/dbt-databricks,2025-11-15 09:33:18,2,1,2,1,0.0,319,,,,,,,,,,,False
+paperdebugger/paperdebugger,edgafner/gbrowser,2026-01-19 08:06:16,2,1,2,1,0.0,320,0.5,0.5,1.0,1.0,0.0,0.0,0.0,Shared content only,Documented by adoption,Lower alignment,True
+rshaham/job_hunt_buddy,evilbit-labs/daemoneye,2026-01-07 20:45:17,2,1,2,1,0.0,321,1.0,1.0,1.0,1.0,0.0,0.0,0.0,Shared content only,Documented by adoption,Higher alignment,True
+sddevelopment-be/quickstart_agent-augmented-development,archon-research/stl,2026-01-30 10:42:33,2,1,2,1,0.0,322,0.0,1.0,0.5,0.6666666666666666,1.0,0.16666666666666663,0.8333333333333334,Mixed content,Documented by adoption,Higher alignment,True
+stirlingmarketinggroup/marlin,newt239/next-score-watcher,2026-01-12 13:17:56,2,1,2,1,0.0,323,,,,,,,,,,,False
+technicalpickles/envsense,brandonrq506/laboratory,2025-10-21 15:01:55,2,1,2,1,0.0,324,,,,,,,,,,,False
+aws-samples/review-and-assessment-powered-by-intelligent-documentation,albertorestifo/trenino,2026-01-09 08:53:39,1,1,1,1,0.0,325,1.0,0.8461538461538461,1.0,1.0,-0.15384615384615385,0.0,-0.15384615384615385,No observed duplicates only,Documented by adoption,Higher alignment,True
+bayamasa/trippers,3dstreet/3dstreet,2026-01-02 15:00:04,1,1,1,1,0.0,326,,,,,,,,,,,False
+betagouv/api-engagement,alleyinteractive/mantle-framework,2026-01-28 09:49:50,1,1,1,1,0.0,327,,,,,,,,,,,False
+biomejs/biome,altinn/altinn-studio-docs,2026-01-23 00:57:11,1,1,1,1,0.0,328,1.0,0.14285714285714285,0.0,1.0,-0.8571428571428572,1.0,-1.8571428571428572,No observed duplicates only,Documented by adoption,Higher alignment,True
+durdan/dd-sdlc-ai,apify/apify-mcp-server,2026-01-04 15:27:19,1,1,1,1,0.0,329,,,,,,,,,,,False
+fohte/renovate-config,aweber-imbi/imbi-ui,2026-01-08 16:12:37,1,1,1,1,0.0,330,,,,,,,,,,,False
+genlayerlabs/genlayer-studio,budecosystem/bud-connect,2026-01-13 12:48:11,1,1,1,1,0.0,331,,,,,,,,,,,False
+hemilabs/ui-monorepo,apache/pinot,2026-01-28 11:10:44,1,1,1,1,0.0,332,,,,,,,,,,,False
+iopsystems/rezolus,adobe/spacecat-api-service,2026-01-28 20:20:04,1,1,1,1,0.0,333,1.0,1.0,0.0,0.875,0.0,0.875,-0.875,No observed duplicates only,Documented by adoption,Higher alignment,True
+jacksenechal/scan-mcp,avresial/financemanager,2025-12-15 05:41:54,1,1,1,1,0.0,334,,,,,,,,,,,False
+jeremybanks/jeb,bylins/mud,2026-01-12 03:20:57,1,1,1,1,0.0,335,,,,,,,,,,,False
+lacolaco/blog.lacolaco.net,denisvmedia/inventario,2026-01-14 05:40:17,1,1,1,1,0.0,336,,,,,,,,,,,False
+llama-farm/llamafarm,duckduckgo/apple-browsers,2026-01-14 06:01:11,1,1,1,1,0.0,337,1.0,0.625,0.0,0.5,-0.375,0.5,-0.875,Mixed content,Documented by adoption,Higher alignment,True
+mandubian/ccos,argium/enhancedcooldownmanager,2026-01-27 23:58:24,1,1,1,1,0.0,338,,,,,,,,,,,False
+marijnbaar/diamond-fysio-contentful,azure/aro-hcp,2026-01-02 22:23:57,1,1,1,1,0.0,339,,,,,,,,,,,False
+mariodavid/jiracle,ed-fi-alliance-oss/ed-fi-actions,2026-01-12 08:33:09,1,1,1,1,0.0,340,,,,,,,,,,,False
+mergifyio/docs,boxqkrtm/webtoolbox,2026-01-21 08:44:34,1,1,1,1,0.0,341,,,,,,,,,,,False
+microsoft/powerplatform-vscode,brickbots/pifinder,2026-01-30 08:52:00,1,1,1,1,0.0,342,1.0,0.9166666666666666,0.0,0.0,-0.08333333333333337,0.0,-0.08333333333333337,No observed duplicates only,Documented by adoption,Lower alignment,True
+myelectricaldata/myelectricaldata_new,aarondemond/osrs-market-analyzer-website,2026-01-24 17:31:14,1,1,1,1,0.0,343,1.0,0.0,1.0,0.4827586206896552,-1.0,-0.5172413793103448,-0.48275862068965525,No observed duplicates only,Documented by adoption,Lower alignment,True
+nadavital/cauldron,akuity/kargo,2025-11-22 07:02:07,1,1,1,1,0.0,344,,,,,,,,,,,False
+oikon48/zenn-contents,camunda/camunda-platform-helm,2025-11-01 00:47:29,1,1,1,1,0.0,345,1.0,1.0,1.0,0.6666666666666666,0.0,-0.33333333333333337,0.33333333333333337,Shared content only,Documented by adoption,Higher alignment,True
+piotrromanczuk/strummy-guitarcrm,buildkite/agent,2026-01-30 19:03:58,1,1,1,1,0.0,346,,,,,,,,,,,False
+practical-stack/oss-kit,datadog/datadog-ci,2026-01-24 09:13:24,1,1,1,1,0.0,347,,,,,,,,,,,False
+rubentalstra/trial-submission-studio,fiestaboard/fiestaboard,2026-01-25 17:03:23,1,1,1,1,0.0,348,,,,,,,,,,,False
+shipsecai/studio,dynamiatools/framework,2026-01-06 13:50:34,1,1,1,1,0.0,349,,,,,,,,,,,False
+stacklok/dockyard,harsha7innerscore/ui_playground,2026-01-15 11:45:02,1,1,1,1,0.0,350,1.0,0.8,1.0,1.0,-0.19999999999999996,0.0,-0.19999999999999996,No observed duplicates only,Documented by adoption,Higher alignment,True
+stacklok/toolhive-registry-server,datadog/terraform-provider-datadog,2026-01-26 14:26:39,1,1,1,1,0.0,351,1.0,1.0,1.0,0.0,0.0,-1.0,1.0,No observed duplicates only,Documented by adoption,Higher alignment,True
+stirlingmarketinggroup/cool-mysql,chsami/microbot-hub,2025-11-03 21:38:40,1,1,1,1,0.0,352,1.0,1.0,1.0,1.0,0.0,0.0,0.0,No observed duplicates only,Documented by adoption,Higher alignment,True
+takumi12311123/dotfiles,euno-hq/discord,2025-12-31 11:47:50,1,1,1,1,0.0,353,1.0,1.0,1.0,0.3333333333333333,0.0,-0.6666666666666667,0.6666666666666667,No observed duplicates only,Documented by adoption,Higher alignment,True
+team-mirai-volunteer/action-board,hay-chat/hay-core,2026-01-15 09:40:55,1,1,1,1,0.0,354,0.0,0.95,1.0,1.0,0.95,0.0,0.95,Shared content only,Documented by adoption,Lower alignment,True
+team-monolith-product/tmn-workflow-automation,hyperdxio/hyperdx,2026-01-15 05:44:47,1,1,1,1,0.0,355,1.0,1.0,0.0,0.75,0.0,0.75,-0.75,No observed duplicates only,Documented by adoption,Lower alignment,True
+wedaren/vscode-issue-manager,fodurrr/dotfiles,2026-01-19 17:08:00,1,1,1,1,0.0,356,0.0,0.0,1.0,1.0,0.0,0.0,0.0,No observed duplicates only,Documented by adoption,Lower alignment,True
+yaakaito/yaakaito,fabric8io/kubernetes-client,2025-12-30 20:20:22,1,1,1,1,0.0,357,,,,,,,,,,,False
+a-tak/bf-copy,2sem/whocallme,2025-11-03 05:05:26,0,0,0,0,0.0,358,,,,,,,,,,,False
+adigunners/adigunners.github.io,5queezer/nexus-crm,2025-12-27 18:16:48,0,0,0,0,0.0,359,,,,,,,,,,,False
+adteco/glapi,abbaye/wpfhexeditoride,2025-12-04 17:12:34,0,0,0,0,0.0,360,,,,,,,,,,,False
+alemdisso/gastrobrain,abhishektuteja01/prova,2026-01-30 17:43:44,0,0,0,0,0.0,361,,,,,,,,,,,False
+aliyuncontainerservice/terway,abo896/obsidian-university-workflow,2026-01-12 10:59:38,0,0,0,0,0.0,362,,,,,,,,,,,False
+andrearr18/byteshutter,acee90/easy-parking-zone,2025-11-30 12:45:20,0,0,0,0,0.0,363,,,,,,,,,,,False
+andrewm4894/anomstack,aceobservability/ace,2026-01-30 23:07:04,0,0,0,0,0.0,364,,,,,,,,,,,False
+artsy/force,ai2cm/ace,2026-01-27 15:02:13,0,0,0,0,0.0,365,,,,,,,,,,,False
+berrykuipers/claude-code-toolkit,aimsise/seedbraid,2026-01-15 16:14:33,0,0,0,0,0.0,366,,,,,,,,,,,False
+bobbyquantum/inkweld,aio-libs/aiohttp,2026-01-09 14:43:41,0,0,0,0,0.0,367,,,,,,,,,,,False
+cesaregarza/splatnlp,aiogram/aiogram,2025-12-08 07:28:50,0,0,0,0,0.0,368,,,,,,,,,,,False
+cfrs2005/claude-init,airwaylab-app/airwaylab,2026-01-22 03:44:28,0,0,0,0,0.0,369,,,,,,,,,,,False
+cloudposse/docs,aitkn/xtil,2025-12-12 17:19:26,0,0,0,0,0.0,370,,,,,,,,,,,False
+codante-io/codante-io-api,aiwatchtowers/watchtower,2025-10-22 22:30:38,0,0,0,0,0.0,371,,,,,,,,,,,False
+codatio/codat-docs,ak-kleemiss/nosphera2,2025-12-15 14:28:11,0,0,0,0,0.0,372,,,,,,,,,,,False
+codehavenx/monorepo,akki0511/quanttradeai,2026-01-06 00:07:16,0,0,0,0,0.0,373,,,,,,,,,,,False
+coreyja/coreyja.com,alaexeyshustov/pipelines,2025-11-09 14:09:03,0,0,0,0,0.0,374,,,,,,,,,,,False
+department-of-veterans-affairs/vets-design-system-documentation,alainmarcel/uhdm2rtlil,2026-01-23 16:40:05,0,0,0,0,0.0,375,,,,,,,,,,,False
+ethpandaops/lab,aleksandresukh/focus,2025-11-28 01:45:37,0,0,0,0,0.0,376,,,,,,,,,,,False
+flanksource/docs,alexey-lukin/silken_net,2026-01-27 06:35:21,0,0,0,0,0.0,377,,,,,,,,,,,False
+hiizzzo/steeb,alexj11324/bdi_llm_formal_ver,2025-11-05 23:40:03,0,0,0,0,0.0,378,,,,,,,,,,,False
+hopin-inc/civicship-api,alibaba/rock,2026-01-24 02:58:56,0,0,0,0,0.0,379,,,,,,,,,,,False
+idamadam/design-studio,alkampfergit/dotnetcorecryptography,2026-01-08 14:40:33,0,0,0,0,0.0,380,,,,,,,,,,,False
+j0kz/mcp-agents,ambient-code/gps,2025-12-06 05:22:28,0,0,0,0,0.0,381,,,,,,,,,,,False
+jij-inc/qamomile,amir20/dozzle,2026-01-22 00:36:39,0,0,0,0,0.0,382,,,,,,,,,,,False
+josephschmitt/dotfiles,amolenk/admitto,2026-01-05 17:44:28,0,0,0,0,0.0,383,,,,,,,,,,,False
+joshcanfield/bic-scoreboard,anantys-oss/koan,2026-01-04 03:03:46,0,0,0,0,0.0,384,,,,,,,,,,,False
+karstegg/marthavault,andrewkriley/splunk-lab,2025-11-30 08:02:34,0,0,0,0,0.0,385,,,,,,,,,,,False
+kaxuna1/ecomsite,antoanbg3/crimeandpunishment,2026-01-23 19:35:59,0,0,0,0,0.0,386,,,,,,,,,,,False
+kirkdiggler/rpg-api,aobolensk/dotfiles,2025-11-17 05:26:06,0,0,0,0,0.0,387,,,,,,,,,,,False
+kolodkin/heroes-of-talisman,apache/infrastructure-actions,2025-10-19 17:38:42,0,0,0,0,0.0,388,,,,,,,,,,,False
+ksinha92/mcp-server,apexbusiness-systems/sbbl-hq,2026-01-09 23:50:50,0,0,0,0,0.0,389,,,,,,,,,,,False
+landonvance1/book-share-api,arch10/calculator-plus,2026-01-24 04:37:27,0,0,0,0,0.0,390,,,,,,,,,,,False
+mattheard/dadeto,argumentumgames/argumentum,2026-01-01 17:26:16,0,0,0,0,0.0,391,,,,,,,,,,,False
+matthew-plusprogramming/monorepo,asfalanoij/nist_chatbot,2026-01-04 23:03:09,0,0,0,0,0.0,392,,,,,,,,,,,False
+mattpocock/total-typescript-monorepo,ash-rain/invoicekit,2026-01-27 14:29:37,0,0,0,0,0.0,393,,,,,,,,,,,False
+michelangelo-ai/michelangelo,asksurf-ai/surf-skills,2026-01-30 21:43:03,0,0,0,0,0.0,394,,,,,,,,,,,False
+mindhiveoy/pyopenapi_gen,astronomer/blueprint,2025-12-29 07:41:59,0,0,0,0,0.0,395,,,,,,,,,,,False
+mintiti/pyrat-rust,atgreen/whistler,2025-11-13 13:57:34,0,0,0,0,0.0,396,,,,,,,,,,,False
+nagyv-team/devcontainer-dotfiles,auths-dev/auths,2025-11-15 21:49:27,0,0,0,0,0.0,397,,,,,,,,,,,False
+neovateai/neovate-code,authscaffold/tacacs-rs,2026-01-22 01:10:55,0,0,0,0,0.0,398,,,,,,,,,,,False
+nirmitee-tech/ehrconnect,automattic/sensei,2025-12-15 08:55:54,0,0,0,0,0.0,399,,,,,,,,,,,False
+noise-xyz/brane,avalan-ai/avalan,2025-12-31 00:26:41,0,0,0,0,0.0,400,,,,,,,,,,,False
+nounder/effect-start,azure/azure-managed-grafana,2026-01-03 16:03:42,0,0,0,0,0.0,401,,,,,,,,,,,False
+pgplex/pgschema,bact/pitloom,2025-10-19 03:52:54,0,0,0,0,0.0,402,,,,,,,,,,,False
+phauks/grimbound,bangddong/switch-job-quest,2026-01-03 10:51:01,0,0,0,0,0.0,403,,,,,,,,,,,False
+reserve-protocol/register,beardedgm/ref-mern-template-tmp,2026-01-30 18:52:08,0,0,0,0,0.0,404,,,,,,,,,,,False
+richertunes/brainarr,behaghel/cachet,2025-11-23 16:40:38,0,0,0,0,0.0,405,,,,,,,,,,,False
+rust-works/omni-dev,bekirefeoglu/budgiebreedingtracker,2025-12-25 06:17:31,0,0,0,0,0.0,406,,,,,,,,,,,False
+s2terminal/unite-pro-team-jp,berntpopp/varlens,2026-01-24 03:26:23,0,0,0,0,0.0,407,,,,,,,,,,,False
+shimabukuromeg/meshipiyo,bertrandvidal/parse_this,2025-12-12 19:38:16,0,0,0,0,0.0,408,,,,,,,,,,,False
+siriwatknp/mui-plus,bharm16/nextreel-lite,2025-10-26 08:23:11,0,0,0,0,0.0,409,,,,,,,,,,,False
+superhighfives/code.charliegleason.com,billimek/k8s-gitops,2026-01-14 18:33:46,0,0,0,0,0.0,410,,,,,,,,,,,False
+sutefu23/daily-report,billlayne/bill-layne-insurance-agency,2025-11-03 03:11:31,0,0,0,0,0.0,411,,,,,,,,,,,False
+teraflop-inc/dev-agent-lens,binectics-fitness/binectics-frontend,2026-01-26 00:42:09,0,0,0,0,0.0,412,,,,,,,,,,,False
+terraforming-mars-ce/terraforming-mars,biodatageeks/datafusion-bio-functions,2026-01-22 18:52:59,0,0,0,0,0.0,413,,,,,,,,,,,False
+thiagorech1997/toneforge,bjornarprytz/archetype,2025-11-07 16:16:13,0,0,0,0,0.0,414,,,,,,,,,,,False
+toolkit-ai/magnet-mcp-server,blink-ar/blink-v2,2025-12-23 19:41:27,0,0,0,0,0.0,415,,,,,,,,,,,False
+vamseeachanta/assetutilities,blockful/anticapture,2025-12-24 12:45:36,0,0,0,0,0.0,416,,,,,,,,,,,False
+videojs/v10,blowcomotion/blowcomotion.org,2026-01-19 08:57:01,0,0,0,0,0.0,417,,,,,,,,,,,False
+vzwjustin/twilio-bulk-lookup-master,blues/notecard-schema,2025-12-08 01:28:14,0,0,0,0,0.0,418,,,,,,,,,,,False
+water-rs/waterui,bnglasner/bnglasner.github.io,2026-01-23 16:10:50,0,0,0,0,0.0,419,,,,,,,,,,,False
+wiggitywhitney/commit-story,boborg2475/gardening,2026-01-28 10:47:50,0,0,0,0,0.0,420,,,,,,,,,,,False
+wiggitywhitney/kubehound-demo,boujonlaurin-dotcom/facteur,2026-01-28 01:28:14,0,0,0,0,0.0,421,,,,,,,,,,,False
+xiaonanln/goverse,boxwhine/the-things-ive-seen,2026-01-27 11:11:29,0,0,0,0,0.0,422,,,,,,,,,,,False
+yousefhadder/dotfiles,breckdareck/multiplayer-test,2026-01-17 23:36:04,0,0,0,0,0.0,423,,,,,,,,,,,False
+zzstoatzz/plyr-python-client,brikdesigns/brik-bds,2026-01-02 00:49:38,0,0,0,0,0.0,424,,,,,,,,,,,False

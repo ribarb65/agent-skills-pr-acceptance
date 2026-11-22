@@ -24,15 +24,11 @@ on first run (about 400 MB) and reuse them afterwards.
 python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt
 .venv/bin/jupyter nbconvert --to notebook --execute --inplace notebooks/00_phase0_feasibility.ipynb
-.venv/bin/jupyter nbconvert --to notebook --execute --inplace notebooks/01_rq1_analysis.ipynb
-.venv/bin/jupyter nbconvert --to notebook --execute --inplace notebooks/02_rq2_analysis.ipynb
 ```
 
 | Step | Script | Outputs |
 |---|---|---|
 | Phase 0 — feasibility (schemas, adoption dates, funnel) | `notebooks/00_phase0_feasibility.ipynb` | `data/processed/phase0_funnel.csv`, `figures/phase0_*.png` |
-| RQ1 — adoption analysis | `notebooks/01_rq1_analysis.ipynb` | `data/processed/rq1_*.csv`, `figures/rq1_*.png` |
-| RQ2 — skill characteristics | `notebooks/02_rq2_analysis.ipynb` | `data/processed/rq2_*.csv`, `figures/rq2_*.png` |
 | Course proposal | `report/build_proposal.py`, `report/docx_to_pdf.py` | `report/Project_Proposal.{docx,pdf}` |
 
 ## Repository layout
@@ -50,6 +46,7 @@ src/             reusable code
 
 ## Ethics and personal data
 
-This study uses publicly available GitHub-related data. RQ2 retrieves PR titles, descriptions, and skill content for textual analysis. These local intermediate extracts are excluded from Git and may contain identifying information.
-
-Historical skill content, adoption dates, and actual skill usage cannot always be verified. The findings are observational and do not establish causality.
+Only public data are used. No personally identifiable information is downloaded or stored: the extracts exclude
+user logins, pull-request titles and bodies, and commit messages. GitSkills already replaces commit authors with
+keyed one-way codes. Any data collected later through the GitHub API will pseudonymise human accounts at
+collection time with a keyed one-way hash whose key never leaves the collecting machine.
